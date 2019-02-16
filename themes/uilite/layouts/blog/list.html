@@ -38,6 +38,19 @@
   </div>
 </section>
 
+<script src="https://js.stripe.com/v3"></script>
+<script>
+  var stripe = Stripe('pk_live_qHFjKTEutWh5MaOwGLxxulX5', {
+    betas: ['checkout_beta_4']
+  });
+</script>
+
+<script src="https://js.stripe.com/v3"></script>
+
+<!-- Create a button that your customers click to complete their purchase. -->
+<button class="consult" id="checkout-button-hourly" role="link"><span>Start Hourly</span></button>
+<div id="error-message"></div>
+
 <!--
 //
 //  PAGE NUMBERS

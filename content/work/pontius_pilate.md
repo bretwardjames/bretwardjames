@@ -1,7 +1,7 @@
 ---
 title: "Pontious Pilate"
 date: 2004-05-30T22:34:34-08:00
-draft: false
+draft: true
 audio: []
 featured_image: "pontius-pilate.jpeg"
 categories: ["Category1", "Category2"]
