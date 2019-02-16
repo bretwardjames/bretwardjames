@@ -2,7 +2,7 @@
 title: "Facebook Ads On A Fixed Budget - Tech Tips #1"
 date: 2019-01-08T22:34:34-08:00
 draft: false
-images: 
+featured_image: 
 - fb-budget.jpeg
 ---
 
@@ -30,14 +30,14 @@ Action (optimized for conversions)
 2. Campaign Budget Optimization
 The next thing you need to do is set all of your campaigns to optimize the spend at the campaign level:
 
-![Campaign Budget](Screen Shot 2019-01-07 at 8.51.51 AM.png)
+![Campaign Budget](/images/blog/campaign-budget.png)
 
 You can set each campaign to a limited budget of as low as $2/day (around $65/mo). That would total out to $8/day across all 4 of the campaigns (or $260/mo). 
 
 3. Configure the Campaigns for Cold and Warm Audience Targeting
 Within each of the above campaigns, set up ad sets to distinguish between target groups. I normally have 3 ad sets per campaign:
 
-![Audience Rollups](Screen Shot 2019-01-07 at 9.57.19 AM.png)
+![Audience Rollups](/images/blog/audience-rollups.png)
 
 Warm audience rollup - basically anyone that has engaged in any way (watched video, clicked to website, liked/commented/shared post, etc)
 
@@ -54,7 +54,7 @@ Now, when you release new content, instead of boosting the post individually, si
 
 So if you release a new video intended for your followers, here’s what you do:
 
-![Campaign Setup](Screen Shot 2019-01-07 at 9.47.15 AM.png)
+![Campaign Setup](/images/blog/campaign-setup.png)
 
 Navigate to the Video Engagement campaign
 
