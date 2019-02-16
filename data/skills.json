@@ -1,9 +1,11 @@
 {
-  "title" : "Skills",
+  "title" : "What I'm Good At",
   "skills" : {
-    "Automation" : 80,
+    "Automation" : 85,
     "Copywriting" : 60,
     "Web Design" : 75,
-    "Video Production" : 90
+    "Video Production" : 80,
+    "Strategy" : 95,
+    "Execution" : 99
   }
 }

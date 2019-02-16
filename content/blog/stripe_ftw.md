@@ -6,3 +6,4 @@ featured_image: ""
 ---
 
 {{< youtube N4YQuA0txuc >}}
+{{< stripe hourly >}}
