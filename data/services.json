@@ -4,12 +4,20 @@
     {
       "icon" : "code",
       "title" : "Web Development",
-      "description" : "..."
+      "description" : "...",
+      "product" : "hourly"
     },
     {
       "icon" : "pen-nib",
       "title" : "Logo Design",
-      "description" : "{{< stripe hourly >}}"
+      "description" : "...",
+      "product" : "hourly"
+    },
+    {
+      "icon" : "pen-nib",
+      "title" : "Logo Design",
+      "description" : "...",
+      "product" : "hourly"
     }
   ]
 }
