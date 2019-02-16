@@ -1,6 +1,6 @@
 ---
-title: "Facebook Ads On A Fixed Budget - Tech Tips #1"
-date: 2019-01-08T22:34:34-08:00
+title: "SixthDivision Academy v1"
+date: 2013-11-08T22:34:34-08:00
 draft: false
 images: 
 - fb-budget.jpeg
