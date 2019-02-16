@@ -1,0 +1,15 @@
+{
+  "title" : "Services",
+  "services" : [
+    {
+      "icon" : "code",
+      "title" : "Web Development",
+      "description" : "..."
+    },
+    {
+      "icon" : "pen-nib",
+      "title" : "Logo Design",
+      "description" : "..."
+    }
+  ]
+}

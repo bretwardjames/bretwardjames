@@ -1,0 +1,5 @@
+baseURL = "bretwardjames.com"
+languageCode = "en-us"
+title = "Bretward James"
+theme = "uilite"
+disableKinds = ['taxonomy', 'taxonomyTerm']
