@@ -1,12 +1,6 @@
 {{ $services := .Site.Data.services }}
 
-<script src="https://js.stripe.com/v3"></script>
-
 <script>
-  var stripe = Stripe('pk_live_qHFjKTEutWh5MaOwGLxxulX5', {
-    betas: ['checkout_beta_4']
-  });
-
   var checkoutButton = document.getElementById('checkout-button-{{ $services.product }}');
   checkoutButton.addEventListener('click', function () {
     // When the customer clicks on the button, redirect
