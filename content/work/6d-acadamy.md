@@ -2,8 +2,7 @@
 title: "SixthDivision Academy v1"
 date: 2013-11-08T22:34:34-08:00
 draft: false
-images: 
-- fb-budget.jpeg
+featured_image: "pontius-pilate.jpeg"
 ---
 
 If you’re running Facebook ads, you probably don’t have an unlimited budget. (side note - if you do have an unlimited budget, my hat goes off to you. also, you should give me some)
