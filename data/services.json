@@ -9,7 +9,7 @@
     {
       "icon" : "pen-nib",
       "title" : "Logo Design",
-      "description" : "Click <button>here</button> to access Google"
+      "description" : "Click <button class=\"consult\" id=\"checkout-button-hourly\" role=\"link\"><span>here</span></button> to access Google"
     }
   ]
 }
