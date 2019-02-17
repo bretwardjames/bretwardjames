@@ -2,21 +2,27 @@
   "title" : "Services",
   "services" : [
     {
-      "icon" : "code",
-      "title" : "Web Development",
-      "description" : "...",
+      "icon" : "phone",
+      "title" : "Consulting",
+      "description" : "$250/mo for a call each week",
       "product" : "retainer"
     },
     {
-      "icon" : "pen-nib",
-      "title" : "Logo Design",
-      "description" : "...",
+      "icon" : "code",
+      "title" : "Implementation Services",
+      "description" : "Monthly or Hourly",
       "product" : "something else"
     },
     {
-      "icon" : "pen-nib",
-      "title" : "Logo Design",
-      "description" : "...",
+      "icon" : "video",
+      "title" : "Video Production",
+      "description" : "Planning, Filming, Post-production, etc",
+      "product" : "hourly"
+    },
+    {
+      "icon" : "ad",
+      "title" : "Digital Advertising",
+      "description" : "Planning, Setup, Maintenance",
       "product" : "hourly"
     }
   ]
