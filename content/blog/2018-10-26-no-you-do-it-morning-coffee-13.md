@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-26 15:00:00+00:00
-draft: false
+draft: true
 title: 'No, YOU do it - Morning Coffee #13'
 
 url: /blog/no-you-do-it-morning-coffee-13

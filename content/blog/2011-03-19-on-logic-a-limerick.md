@@ -1,7 +1,7 @@
 ---
 
 date: 2011-03-19 18:16:28+00:00
-draft: false
+draft: true
 title: 'On Logic: a limerick'
 
 url: /blog/on-logic-a-limerick

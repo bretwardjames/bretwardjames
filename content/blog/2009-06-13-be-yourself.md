@@ -1,7 +1,7 @@
 ---
 
 date: 2009-06-13 17:31:16+00:00
-draft: false
+draft: true
 title: Be Yourself
 
 url: /blog/be-yourself

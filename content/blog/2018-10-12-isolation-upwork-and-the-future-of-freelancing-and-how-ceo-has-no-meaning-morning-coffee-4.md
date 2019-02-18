@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-12 19:52:00+00:00
-draft: false
+draft: true
 title: 'Isolation, Upwork and the future of freelancing, and how “CEO” has no meaning
   - Morning Coffee #4'
 

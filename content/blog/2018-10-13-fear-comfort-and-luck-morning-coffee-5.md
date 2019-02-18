@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-13 15:00:00+00:00
-draft: false
+draft: true
 title: 'Fear, comfort, and luck - Morning Coffee #5'
 
 url: /blog/fear-comfort-and-luck-morning-coffee-5

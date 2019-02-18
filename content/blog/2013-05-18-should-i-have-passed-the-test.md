@@ -1,7 +1,7 @@
 ---
 
 date: 2013-05-18 18:37:27+00:00
-draft: false
+draft: true
 title: Should I have passed the test?
 
 url: /blog/should-i-have-passed-the-test

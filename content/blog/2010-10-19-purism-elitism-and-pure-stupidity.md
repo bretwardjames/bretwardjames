@@ -1,7 +1,7 @@
 ---
 
 date: 2010-10-19 18:04:39+00:00
-draft: false
+draft: true
 title: Purism, Elitism, and Pure Stupidity
 
 url: /blog/purism-elitism-and-pure-stupidity

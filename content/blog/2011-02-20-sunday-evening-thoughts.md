@@ -1,7 +1,7 @@
 ---
 
 date: 2011-02-20 18:13:43+00:00
-draft: false
+draft: true
 title: Sunday Evening Thoughts
 
 url: /blog/sunday-evening-thoughts

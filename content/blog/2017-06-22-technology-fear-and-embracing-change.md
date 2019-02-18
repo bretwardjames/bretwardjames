@@ -1,7 +1,7 @@
 ---
 
 date: 2017-06-22 01:28:51+00:00
-draft: false
+draft: true
 title: Technology, Fear, and Embracing Change
 
 url: /blog/technology-fear-and-embracing-change

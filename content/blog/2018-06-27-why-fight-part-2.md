@@ -1,7 +1,7 @@
 ---
 
 date: 2018-06-27 22:03:17+00:00
-draft: false
+draft: true
 title: 'Why Fight? - Reason #1: Humanity (part 2 of 5)'
 
 url: /blog/why-fight-part-2

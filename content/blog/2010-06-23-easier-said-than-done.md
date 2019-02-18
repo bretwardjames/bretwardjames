@@ -1,7 +1,7 @@
 ---
 
 date: 2010-06-23 18:00:33+00:00
-draft: false
+draft: true
 title: Easier said than done
 
 url: /blog/easier-said-than-done

@@ -1,7 +1,7 @@
 ---
 
 date: 2010-05-02 17:57:39+00:00
-draft: false
+draft: true
 title: Discipline
 
 url: /blog/discipline

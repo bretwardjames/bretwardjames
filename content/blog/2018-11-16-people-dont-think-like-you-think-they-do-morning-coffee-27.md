@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-16 16:14:00+00:00
-draft: false
+draft: true
 title: 'People Don''t Think Like You Think They Do - Morning Coffee #27'
 
 url: /blog/people-dont-think-like-you-think-they-do-morning-coffee-27

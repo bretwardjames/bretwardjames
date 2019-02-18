@@ -1,7 +1,7 @@
 ---
 
 date: 2016-06-29 03:00:40+00:00
-draft: false
+draft: true
 title: Commonality Audits and canine interaction and things (Think Like Me - 5)
 featured_image: 'tlm-logo.jpg'
 url: /blog/commonality-audits-and-canine-interaction-and-things

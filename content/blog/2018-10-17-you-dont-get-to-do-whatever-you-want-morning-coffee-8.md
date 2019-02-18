@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-17 15:00:00+00:00
-draft: false
+draft: true
 title: 'You DON’T Get to Do Whatever You Want - Morning Coffee #8'
 
 url: /blog/you-dont-get-to-do-whatever-you-want-morning-coffee-8

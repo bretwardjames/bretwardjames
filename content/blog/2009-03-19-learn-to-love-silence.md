@@ -1,7 +1,7 @@
 ---
 
 date: 2009-03-19 17:28:02+00:00
-draft: false
+draft: true
 title: Learn to love silence
 
 url: /blog/learn-to-love-silence

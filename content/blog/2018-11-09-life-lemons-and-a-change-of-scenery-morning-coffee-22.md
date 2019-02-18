@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-09 16:11:00+00:00
-draft: false
+draft: true
 title: 'Life, Lemons, and a Change of Scenery - Morning Coffee #22'
 
 url: /blog/life-lemons-and-a-change-of-scenery-morning-coffee-22

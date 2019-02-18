@@ -1,7 +1,7 @@
 ---
 
 date: 2010-10-27 18:05:41+00:00
-draft: false
+draft: true
 title: Vindication, philosophically speaking
 
 url: /blog/vindication-philosophically-speaking

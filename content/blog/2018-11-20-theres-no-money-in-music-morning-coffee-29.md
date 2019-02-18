@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-20 17:02:17+00:00
-draft: false
+draft: true
 title: '"There''s No Money In Music" - Morning Coffee #29'
 
 url: /blog/theres-no-money-in-music-morning-coffee-29

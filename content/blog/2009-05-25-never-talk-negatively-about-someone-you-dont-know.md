@@ -1,7 +1,7 @@
 ---
 
 date: 2009-05-25 17:30:28+00:00
-draft: false
+draft: true
 title: Never talk negatively about someone you don’t know
 
 url: /blog/never-talk-negatively-about-someone-you-dont-know

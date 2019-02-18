@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-29 15:00:00+00:00
-draft: false
+draft: true
 title: 'That time I quit marketing - Morning Coffee #14'
 
 url: /blog/that-time-i-quit-marketing-morning-coffee-14

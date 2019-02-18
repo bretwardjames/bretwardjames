@@ -1,7 +1,7 @@
 ---
 
 date: 2016-07-18 05:16:37+00:00
-draft: false
+draft: true
 title: Pokemon and politics and things (Think Like Me - 9)
 featured_image: 'tlm-logo.jpg'
 url: /blog/pokemon-and-politics-and-things

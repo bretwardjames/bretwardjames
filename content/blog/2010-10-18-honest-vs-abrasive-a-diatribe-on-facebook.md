@@ -1,7 +1,7 @@
 ---
 
 date: 2010-10-18 18:03:36+00:00
-draft: false
+draft: true
 title: Honest vs. Abrasive (a diatribe on Facebook)
 
 url: /blog/honest-vs-abrasive-a-diatribe-on-facebook

@@ -1,7 +1,7 @@
 ---
 
 date: 2013-06-01 18:39:51+00:00
-draft: false
+draft: true
 title: 'Working with your Spouse: Tips to Make it Work'
 
 url: /blog/working-with-your-spouse-tips-to-make-it-work

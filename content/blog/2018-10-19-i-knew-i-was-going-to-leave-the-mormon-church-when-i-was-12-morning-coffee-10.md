@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-19 15:00:00+00:00
-draft: false
+draft: true
 title: 'I knew I was going to leave the Mormon church when I was 12 - Morning Coffee
   #10'
 

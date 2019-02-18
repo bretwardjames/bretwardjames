@@ -1,7 +1,7 @@
 ---
 
 date: 2011-05-05 18:17:37+00:00
-draft: false
+draft: true
 title: The Irony of Human Communication
 
 url: /blog/the-irony-of-human-communication

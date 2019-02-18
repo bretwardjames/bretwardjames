@@ -1,7 +1,7 @@
 ---
 
 date: 2010-11-30 18:06:28+00:00
-draft: false
+draft: true
 title: The Rule of Significant Figures as it Applies to Knowledge
 
 url: /blog/the-rule-of-significant-figures-as-it-applies-to-knowledge

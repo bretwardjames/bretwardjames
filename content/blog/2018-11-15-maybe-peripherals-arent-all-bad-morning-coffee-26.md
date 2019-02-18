@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-15 17:23:54+00:00
-draft: false
+draft: true
 title: 'Maybe Peripherals Aren''t ALL Bad - Morning Coffee #26'
 
 url: /blog/maybe-peripherals-arent-all-bad-morning-coffee-26

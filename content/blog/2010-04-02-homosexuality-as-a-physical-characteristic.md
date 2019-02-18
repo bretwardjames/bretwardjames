@@ -1,7 +1,7 @@
 ---
 
 date: 2010-04-02 18:30:36+00:00
-draft: false
+draft: true
 title: Homosexuality as a Physical Characteristic
 
 url: /blog/homosexuality-as-a-physical-characteristic

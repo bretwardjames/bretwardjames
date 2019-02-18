@@ -1,7 +1,7 @@
 ---
 
 date: 2010-02-27 17:54:07+00:00
-draft: false
+draft: true
 title: They call me amateur
 
 url: /blog/they-call-me-amateur

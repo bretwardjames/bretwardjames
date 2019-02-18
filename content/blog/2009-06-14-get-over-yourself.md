@@ -1,7 +1,7 @@
 ---
 
 date: 2009-06-14 17:32:04+00:00
-draft: false
+draft: true
 title: Get Over Yourself
 
 url: /blog/get-over-yourself

@@ -1,7 +1,7 @@
 ---
 
 date: 2010-01-31 17:40:58+00:00
-draft: false
+draft: true
 title: Do, or do not; there is no try
 
 url: /blog/do-or-do-not-there-is-no-try

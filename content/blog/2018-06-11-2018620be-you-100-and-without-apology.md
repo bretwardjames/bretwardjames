@@ -1,7 +1,7 @@
 ---
 
 date: 2018-06-11 18:08:00+00:00
-draft: false
+draft: true
 title: Be You, 100% and Without Apology
 
 url: /blog/2018/6/20/be-you-100-and-without-apology

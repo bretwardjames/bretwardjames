@@ -1,7 +1,7 @@
 ---
 
 date: 2010-01-26 17:40:15+00:00
-draft: false
+draft: true
 title: There are no fresh starts or do-over’s, just fresh resolve and do-better’s
 
 url: /blog/there-are-no-fresh-starts-or-do-overs-just-fresh-resolve-and-do-betters

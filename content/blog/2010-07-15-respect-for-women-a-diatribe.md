@@ -1,7 +1,7 @@
 ---
 
 date: 2010-07-15 18:02:10+00:00
-draft: false
+draft: true
 title: Respect for Women (a diatribe)
 
 url: /blog/respect-for-women-a-diatribe

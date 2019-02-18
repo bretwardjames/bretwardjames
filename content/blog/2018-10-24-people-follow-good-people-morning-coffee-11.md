@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-24 15:00:00+00:00
-draft: false
+draft: true
 title: 'People follow good people - Morning Coffee #11'
 
 url: /blog/people-follow-good-people-morning-coffee-11

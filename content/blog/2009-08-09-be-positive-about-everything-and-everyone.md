@@ -1,7 +1,7 @@
 ---
 
 date: 2009-08-09 17:35:48+00:00
-draft: false
+draft: true
 title: Be positive about everything and everyone
 
 url: /blog/be-positive-about-everything-and-everyone

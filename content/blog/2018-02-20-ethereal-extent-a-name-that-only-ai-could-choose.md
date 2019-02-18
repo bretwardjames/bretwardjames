@@ -1,7 +1,7 @@
 ---
 
 date: 2018-02-20 03:58:35+00:00
-draft: false
+draft: true
 title: Ethereal Extent (a name that only AI could choose)
 
 url: /blog/ethereal-extent-a-name-that-only-ai-could-choose

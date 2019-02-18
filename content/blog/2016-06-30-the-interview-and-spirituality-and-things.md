@@ -1,7 +1,7 @@
 ---
 
 date: 2016-06-30 03:03:41+00:00
-draft: false
+draft: true
 title: The Interview and spirituality and things (Think Like Me - 6)
 featured_image: 'tlm-logo.jpg'
 url: /blog/the-interview-and-spirituality-and-things

@@ -1,7 +1,7 @@
 ---
 
 date: 2018-12-06 16:54:00+00:00
-draft: false
+draft: true
 title: 'Certification (it''s just a piece of paper) - Morning Coffee #32'
 
 url: /blog/morning-coffee-32

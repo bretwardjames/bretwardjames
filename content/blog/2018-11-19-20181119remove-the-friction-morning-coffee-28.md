@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-19 20:15:26+00:00
-draft: false
+draft: true
 title: 'Remove the Friction - Morning Coffee #28'
 
 url: /blog/2018/11/19/remove-the-friction-morning-coffee-28

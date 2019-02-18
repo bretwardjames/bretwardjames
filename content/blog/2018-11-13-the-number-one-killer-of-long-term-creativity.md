@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-13 23:03:08+00:00
-draft: false
+draft: true
 title: The Number One Killer of Long-Term Creativity
 
 url: /blog/the-number-one-killer-of-long-term-creativity

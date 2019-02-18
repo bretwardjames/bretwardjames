@@ -1,7 +1,7 @@
 ---
 
 date: 2009-03-17 17:26:29+00:00
-draft: false
+draft: true
 title: Treat people like they already are what you want them to become
 
 url: /blog/treat-people-like-they-already-are-what-you-want-them-to-become

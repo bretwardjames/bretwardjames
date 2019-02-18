@@ -1,7 +1,7 @@
 ---
 
 date: 2016-07-03 05:11:40+00:00
-draft: false
+draft: true
 title: Writing a song live and things (Think Like Me - 8)
 featured_image: 'tlm-logo.jpg'
 url: /blog/writing-a-song-live-and-things

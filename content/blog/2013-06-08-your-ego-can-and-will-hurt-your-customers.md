@@ -1,7 +1,7 @@
 ---
 
 date: 2013-06-08 19:03:36+00:00
-draft: false
+draft: true
 title: Your Ego Can (and will) Hurt Your Customers
 
 url: /blog/your-ego-can-and-will-hurt-your-customers

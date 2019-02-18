@@ -1,7 +1,7 @@
 ---
 
 date: 2009-03-12 17:25:36+00:00
-draft: false
+draft: true
 title: 'There are 2 kinds of pain: the Pain of Discipline and the Pain of Regret'
 
 url: /blog/there-are-2-kinds-of-pain-the-pain-of-discipline-and-the-pain-of-regret

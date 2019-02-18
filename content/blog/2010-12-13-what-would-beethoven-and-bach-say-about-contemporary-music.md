@@ -1,7 +1,7 @@
 ---
 
 date: 2010-12-13 18:08:37+00:00
-draft: false
+draft: true
 title: What would Beethoven and Bach say about contemporary music?
 
 url: /blog/what-would-beethoven-and-bach-say-about-contemporary-music

@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-21 16:52:03+00:00
-draft: false
+draft: true
 title: 'The Responsibility of Having an Opinion is Expressing it Honestly - Morning
   Coffee #30'
 

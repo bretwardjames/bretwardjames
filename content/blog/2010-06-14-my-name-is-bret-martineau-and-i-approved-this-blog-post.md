@@ -1,7 +1,7 @@
 ---
 
 date: 2010-06-14 17:59:45+00:00
-draft: false
+draft: true
 title: My name is Bret Martineau and I approved this blog post.
 
 url: /blog/my-name-is-bret-martineau-and-i-approved-this-blog-post

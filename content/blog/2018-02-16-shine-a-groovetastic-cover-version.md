@@ -1,7 +1,7 @@
 ---
 
 date: 2018-02-16 02:20:48+00:00
-draft: false
+draft: true
 title: Shine (a grooveTASTIC cover version)
 
 url: /blog/shine-a-groovetastic-cover-version

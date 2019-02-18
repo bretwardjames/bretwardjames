@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-13 16:00:00+00:00
-draft: false
+draft: true
 title: 'What I Did After I Left Infusionsoft the FIRST Time: Morning Coffee #24'
 
 url: /blog/what-i-did-after-i-left-infusionsoft-the-first-time-morning-coffee-24

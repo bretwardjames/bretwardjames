@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-23 03:55:26+00:00
-draft: false
+draft: true
 title: Stop trying to not do work
 
 url: /blog/stop-trying-to-not-do-work

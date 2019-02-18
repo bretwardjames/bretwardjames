@@ -1,7 +1,7 @@
 ---
 
 date: 2016-08-05 05:32:09+00:00
-draft: false
+draft: true
 title: Guilt and music and things (Think Like Me - 12)
 featured_image: 'tlm-logo.jpg'
 url: /blog/guilt-and-music-and-things

@@ -1,7 +1,7 @@
 ---
 
 date: 2011-02-02 18:09:26+00:00
-draft: false
+draft: true
 title: A Call to Reflection
 
 url: /blog/a-call-to-reflection

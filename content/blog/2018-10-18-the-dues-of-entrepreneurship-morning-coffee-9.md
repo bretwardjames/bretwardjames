@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-18 15:00:00+00:00
-draft: false
+draft: true
 title: 'The Dues of Entrepreneurship - Morning Coffee #9'
 
 url: /blog/the-dues-of-entrepreneurship-morning-coffee-9

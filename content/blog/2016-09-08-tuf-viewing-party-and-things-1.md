@@ -1,7 +1,7 @@
 ---
 
 date: 2016-09-08 05:40:55+00:00
-draft: false
+draft: true
 title: TUF Viewing Party and things (Think Like Me 14)
 featured_image: 'tlm-logo.jpg'
 url: /blog/tuf-viewing-party-and-things-1

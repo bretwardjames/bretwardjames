@@ -1,7 +1,7 @@
 ---
 
 date: 2011-02-22 18:14:27+00:00
-draft: false
+draft: true
 title: Monday Evening Thoughts (written on Tuesday morning)
 
 url: /blog/monday-evening-thoughts-written-on-tuesday-morning

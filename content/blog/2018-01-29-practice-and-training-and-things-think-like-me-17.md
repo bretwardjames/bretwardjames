@@ -1,7 +1,7 @@
 ---
 
 date: 2018-01-29 05:04:30+00:00
-draft: false
+draft: true
 title: Practice and training and things (Think Like Me - 17)
 featured_image: 'tlm-logo.jpg'
 url: /blog/practice-and-training-and-things-think-like-me-17

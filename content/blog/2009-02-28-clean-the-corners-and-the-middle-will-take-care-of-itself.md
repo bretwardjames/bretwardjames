@@ -1,7 +1,7 @@
 ---
 
 date: 2009-02-28 17:23:39+00:00
-draft: false
+draft: true
 title: Clean the corners, and the middle will take care of itself
 
 url: /blog/clean-the-corners-and-the-middle-will-take-care-of-itself

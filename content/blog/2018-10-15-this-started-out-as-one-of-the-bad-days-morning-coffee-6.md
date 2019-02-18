@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-15 15:00:00+00:00
-draft: false
+draft: true
 title: 'This started out as one of the bad days - Morning Coffee #6'
 
 url: /blog/this-started-out-as-one-of-the-bad-days-morning-coffee-6

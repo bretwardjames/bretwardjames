@@ -1,7 +1,7 @@
 ---
 
 date: 2016-07-01 03:12:10+00:00
-draft: false
+draft: true
 title: Fear and respect and things (Think Like Me - 7)
 featured_image: 'tlm-logo.jpg'
 url: /blog/fear-and-respect-and-things

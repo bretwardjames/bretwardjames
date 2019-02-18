@@ -1,7 +1,7 @@
 ---
 
 date: 2016-08-31 05:35:56+00:00
-draft: false
+draft: true
 title: Music and frustration and things (Think Like Me - 13)
 featured_image: 'tlm-logo.jpg'
 url: /blog/music-and-frustration-and-things

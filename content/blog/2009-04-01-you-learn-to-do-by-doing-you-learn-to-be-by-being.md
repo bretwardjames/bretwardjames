@@ -1,7 +1,7 @@
 ---
 
 date: 2009-04-01 17:28:49+00:00
-draft: false
+draft: true
 title: You learn to do by doing; you learn to be by being
 
 url: /blog/you-learn-to-do-by-doing-you-learn-to-be-by-being

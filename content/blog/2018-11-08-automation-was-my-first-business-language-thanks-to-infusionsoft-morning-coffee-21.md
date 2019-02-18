@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-08 16:10:00+00:00
-draft: false
+draft: true
 title: 'Automation Was My FIRST Business Language (Thanks to Infusionsoft): Morning
   Coffee #21'
 

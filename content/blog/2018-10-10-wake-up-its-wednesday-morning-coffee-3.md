@@ -1,7 +1,7 @@
 ---
 
 date: 2018-10-10 15:00:00+00:00
-draft: false
+draft: true
 title: 'Wake Up, It''s Wednesday - Morning Coffee #3'
 
 url: /blog/wake-up-its-wednesday-morning-coffee-3

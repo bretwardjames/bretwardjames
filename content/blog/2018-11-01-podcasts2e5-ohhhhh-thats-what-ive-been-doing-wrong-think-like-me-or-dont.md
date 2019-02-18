@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-01 13:59:33+00:00
-draft: false
+draft: true
 title: S2E5 - Ohhhhh THAT'S what I've been doing wrong... - Think Like Me (or don't)
 featured_image: 'tlm-logo.jpg'
 url: /blog/podcast/s2e5-ohhhhh-thats-what-ive-been-doing-wrong-think-like-me-or-dont

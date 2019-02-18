@@ -1,7 +1,7 @@
 ---
 
 date: 2011-03-18 18:15:38+00:00
-draft: false
+draft: true
 title: 'Logic vs Intuition: the fatal confusion'
 
 url: /blog/logic-vs-intuition-the-fatal-confusion

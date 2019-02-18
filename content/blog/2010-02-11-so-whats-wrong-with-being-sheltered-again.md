@@ -1,7 +1,7 @@
 ---
 
 date: 2010-02-11 17:41:43+00:00
-draft: false
+draft: true
 title: So what’s wrong with being sheltered again?
 
 url: /blog/so-whats-wrong-with-being-sheltered-again

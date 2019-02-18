@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-23 16:19:54+00:00
-draft: false
+draft: true
 title: 'Just Some Funny Stories From My 3rd Stint at Infusionsoft - Morning Coffee
   #31'
 

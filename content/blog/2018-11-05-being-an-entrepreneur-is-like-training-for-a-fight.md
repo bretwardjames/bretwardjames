@@ -1,7 +1,7 @@
 ---
 
 date: 2018-11-05 15:00:00+00:00
-draft: false
+draft: true
 title: Being an Entrepreneur is Like Training For a Fight
 
 url: /blog/being-an-entrepreneur-is-like-training-for-a-fight

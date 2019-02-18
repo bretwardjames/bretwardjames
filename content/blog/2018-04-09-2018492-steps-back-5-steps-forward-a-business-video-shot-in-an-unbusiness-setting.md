@@ -1,7 +1,7 @@
 ---
 
 date: 2018-04-09 15:00:00+00:00
-draft: false
+draft: true
 title: 2 Steps Back, 5 Steps Forward - a business video shot in an unbusiness setting
 
 url: /blog/2018/4/9/2-steps-back-5-steps-forward-a-business-video-shot-in-an-unbusiness-setting

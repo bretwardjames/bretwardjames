@@ -1,7 +1,7 @@
 ---
 
 date: 2016-07-28 05:24:29+00:00
-draft: false
+draft: true
 title: Language is useless and things (Think Like Me - 11)
 featured_image: 'tlm-logo.jpg'
 url: /blog/language-is-useless-and-things
