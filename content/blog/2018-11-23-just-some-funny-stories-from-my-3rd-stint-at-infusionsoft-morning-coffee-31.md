@@ -1,17 +1,16 @@
 ---
 
 date: 2018-11-23 16:19:54+00:00
-draft: true
-title: 'Just Some Funny Stories From My 3rd Stint at Infusionsoft - Morning Coffee
-  #31'
-
+draft: false
+title: 'Just Some Funny Stories From My 3rd Stint at Infusionsoft - Morning Coffee #31'
+featured_image: 'morning-coffee-31.png'
 url: /blog/just-some-funny-stories-from-my-3rd-stint-at-infusionsoft-morning-coffee-31
 categories:
 - Morning Coffee
 ---
 
 
- 
+ {{< youtube tqRiaEfYNbI >}} \
 
 
 This starts out with me having to interview to get a job back at Infusionsoft. (Shout out to Scott Morrison)
