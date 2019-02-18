@@ -1,7 +1,7 @@
 ---
 title: "SixthDivision Academy v1"
 date: 2013-11-08T22:34:34-08:00
-draft: true
+draft: false
 featured_image: "pontius-pilate.jpeg"
 ---
 
