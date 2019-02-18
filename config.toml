@@ -1,4 +1,4 @@
-baseURL = "https://bretwardjames.com/"
+baseURL = "https://bretwardjames.netlify.com/"
 languageCode = "en-us"
 title = "Bretward James"
 theme = "uilite"
