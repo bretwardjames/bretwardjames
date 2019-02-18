@@ -24,7 +24,6 @@
 //   });
 // });
 
-
 let menuBtn = $("#menuBar");
 
 menuBtn.click(function(){

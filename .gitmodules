@@ -1,3 +1,6 @@
 [submodule "bretwardjames/themes/vex-hugo"]
 	path = bretwardjames/themes/vex-hugo
 	url = https://github.com/themefisher/vex-hugo
+[submodule "dudelunch/infinity-hugo"]
+	path = dudelunch/infinity-hugo
+	url = https://github.com/themefisher/infinity-hugo.git
