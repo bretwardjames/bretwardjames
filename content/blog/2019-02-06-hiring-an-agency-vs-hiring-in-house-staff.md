@@ -2,6 +2,7 @@
 date: 2019-02-06 22:48:42+00:00
 draft: false
 title: Hiring an Agency vs Hiring In-House Staff
+url: /blog/hiring-an-agency-vs-hiring-in-house-staff
 categories:
 - Business
 featured_image: 'agency-vs-inhouse.png'
