@@ -9,6 +9,8 @@ categories:
 - Morning Coffee
 ---
 
+{{< youtube i-tmbmzWSc0 >}}
+
 What I’m about to share with you is the result of many, many years of life bashing me over the head trying to get me to understand this simple principle.
 
 I am not someone who enjoys saying “No”.
