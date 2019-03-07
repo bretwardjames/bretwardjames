@@ -4,4 +4,4 @@ HUGO_ENV = "production"
 
 [[redirects]]
   from = "https://bretmartineau.com/*"
-  to = "/:splat"
+  to = "https://bretwardjames.com/:splat"
