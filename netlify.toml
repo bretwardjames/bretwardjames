@@ -5,3 +5,5 @@ HUGO_ENV = "production"
 [[redirects]]
   from = "https://bretmartineau.com/*"
   to = "https://bretwardjames.com/:splat"
+  force = true
+  status = 301
