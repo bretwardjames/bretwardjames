@@ -1,11 +1,10 @@
 {
-  "title" : "What I'm Good At",
+  "title" : "My Skills",
   "skills" : {
-    "Automation" : 85,
-    "Copywriting" : 60,
-    "Web Design" : 75,
-    "Video Production" : 80,
-    "Strategy" : 95,
-    "Execution" : 99
+    "Marketing (strategy, content, technology)" : 95,
+    "Unnecessary Fluff" : 5,
+    "Russian" : 80,
+    "Muay Thai" : 65,
+    "Music" : 75
   }
 }
