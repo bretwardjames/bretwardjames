@@ -1,8 +1,8 @@
 ---
-title: "SixthDivision Academy v1"
+title: "Music"
 date: 2013-11-08T22:34:34-08:00
-draft: true
-featured_image: "pontius-pilate.jpeg"
+draft: false
+featured_image: "guitar.jpg"
 ---
 
 If you’re running Facebook ads, you probably don’t have an unlimited budget. (side note - if you do have an unlimited budget, my hat goes off to you. also, you should give me some)
