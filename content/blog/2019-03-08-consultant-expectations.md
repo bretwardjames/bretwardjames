@@ -29,10 +29,11 @@ Unfortunately, we don't live in the matrix: \
 {{< figure src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" >}} \
 
 Unlike Neo, we can't just install knowledge and understanding like with a computer. That would be pretty f***ing cool,
-let's be honest, but it's simply not possible. \
-
-Therefore, we have to spend _time_ learning things, whether it be simple data, like facts or statistics, or the tactile
+let's be honest, but it's simply not possible. Therefore, we have to spend _time_ learning things, whether it be simple data, like facts or statistics, or the tactile
 understanding of _how_ to do something, like learning to box or make rockets. It takes time to learn those things. \
+
+And not everyone learns every _thing_ at the same rate, either. So just because it took you less time to master a 
+particular thing than I did doesn't mean I can't whoop your ass up and down the court (so to speak) with it.
  
 ##### 2. There Is Only So Much Time
 
