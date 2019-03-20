@@ -72,7 +72,7 @@ So when you have initial expenses (website building, marketing consulting, ad sp
 should be to have the _business_ pay for those things. You should be shooting for the business to cover its own costs
 and be profitable on top of that. \
 
-Otherwise, it's just a hobby. An overly stressful, often _expensive_ holiday. \
+Otherwise, it's just a hobby. An overly stressful, often _expensive_ hobby. \
 
 <center>
 
