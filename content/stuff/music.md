@@ -2,10 +2,8 @@
 title: "Music"
 date: 2013-11-08T22:34:34-08:00
 draft: false
-is_music:
 featured_image: guitar.jpg
 featured_thing: http://www.youtube.com/embed/oILKgLHQEZM
-featured_thing2: http://www.youtube.com/embed/oILKgLHQEZM
 ---
 I started my music training at the ripe old age of 8 on the piano. I really hated piano when I was younger, I think
 because I've always really hated the idea of "chores", and I saw practicing as a chore. \
