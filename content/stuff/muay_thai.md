@@ -6,6 +6,7 @@ audio: []
 featured_image: "usko_0616-k.jpg"
 ---
 {{< load-photoswipe >}}
+
 I started training Muay Thai in October 2014 at The Boxing Club in San Diego. \
 My first trainer was Artem Sharoshkin, and I now train under Jessie Magusen and Caine Gayle. \
 My amateur record is 3-2-0 with 2 PKB/smoker bouts.
