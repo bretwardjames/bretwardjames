@@ -6,9 +6,7 @@ title: 'Why Fight? - Reason #1: Humanity (part 2 of 5)'
 
 url: /blog/why-fight-part-2
 categories:
-- Business
-- Jack Handy
-- Random
+- Muay Thai
 ---
 
 # Reason #1: Humanity
