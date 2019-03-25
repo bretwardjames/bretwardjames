@@ -11,7 +11,7 @@ categories:
 
 {{< youtube fmLWlm6Ewyw >}} \
 
-{{< anchor thinklikeme >}} \
+{{< anchor S3E4---Featuring-Kevin-The-Soul-Assassin-Ross-and-Marvin-The-Mad-Lion-Madariaga-e3amhe >}} \
 
 Absolute legends in their own right, Kevin and Marvin, stop by to chat a bit about fighting and some of the differences 
 between the old school fight mentality and the struggle of a fighter coming up now. 
