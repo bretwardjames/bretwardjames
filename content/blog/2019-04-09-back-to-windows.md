@@ -17,13 +17,13 @@ I think a big part of the reason why I lasted so long on a Mac is because I had 
 mine. And it didn't feel like it was just a bumper sticker, it was something that made my computer more than just a
 Mac, it was *my computer*. \
 
-That computer's battery bit the dust not long ago and I had to aquire a new machine to work on. I got super lucky
+That computer's battery bit the dust not long ago and I had to acquire a new machine to work on. I got super lucky
 that my dad had an old Macbook that he was no longer using (having recently upgraded to a computer that is, in all 
 seriousness, way too powerful for him), and so I got back into the flow, having not missed a beat. \
 
 But there is something lacking in this 'new' machine. It could be as simple (and dumb) as the fact that it doesn't
 have that same decal on the back, but I think it's actually something deeper. I think I'm finally seeing that Mac 
-for what it is - one of a milion. \
+for what it is - one of a million. \
 
 It could be the elder millenial in me talking, but I *hate* the idea that I'm not unique. I don't like using things
 that other people use. I always want to be the only person using whatever I'm using, and in all seriousness, seeing
