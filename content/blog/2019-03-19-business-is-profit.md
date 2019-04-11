@@ -18,9 +18,6 @@ change the nature and definition of what a `job` is. (more on that in another po
 As technology continues to evolve, we are faced with an increasing number of what I call `microproblems` (some people 
 refer to these as `first world problems`): \
 
-|   |   |   |   |
-|---|---|---|---|
-|{{< figure src="https://media.giphy.com/media/3o6Zt6PwYMGqFlenL2/giphy.gif" >}}|{{< figure src="https://media.giphy.com/media/3o6ZtrpFam4zysSpFu/giphy.gif" >}}|{{< figure src="https://media.giphy.com/media/3oEjHMmQtHX1YyjesU/giphy.gif" >}}|{{< figure src="https://media.giphy.com/media/3o6ZsZHmDKsVUFIMAo/giphy.gif" >}}|  
 
 Now take a look at the above images. For a long time, these problems were just accepted as the side-effect of having
 access to the technology that brought that problem. So the common response would be something like: \

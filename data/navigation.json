@@ -8,7 +8,11 @@
     "href" : "#services"
   },
   {
-    "title" : "contact",
+    "title" : "Stuff",
+    "href" : "stuff"
+  },
+  {
+    "title" : "Contact",
     "href" : "#contact"
   }
 ]
