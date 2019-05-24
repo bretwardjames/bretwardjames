@@ -3,3 +3,8 @@ languageCode = "en-us"
 title = "Bretward James"
 theme = "uilite"
 disableKinds = ['taxonomy', 'taxonomyTerm']
+
+[outputs]
+home = [ "HTML", "RSS"]
+blog = [ "HTML", "RSS"]
+stuff = [ "HTML", "RSS"]

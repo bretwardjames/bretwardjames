@@ -7,3 +7,4 @@ HUGO_ENV = "production"
   to = "https://bretwardjames.com/:splat"
   force = true
   status = 301
+
