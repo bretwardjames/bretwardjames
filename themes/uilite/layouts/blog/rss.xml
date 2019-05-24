@@ -18,9 +18,9 @@
             <link>{{ .Permalink }}</link>
             <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
             {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+            <media:content type="image/jpeg" medium="image" width="900" height="600" url="https://bretwardjames.com/images/blog/{{ .Params.featured_image }}" />
             <guid>{{ .Permalink }}</guid>
-            <description><p><img src="https://bretwardjames.com/images/blog/{{ .Params.featured_image }}" class="attachment-full size-full wp-post-image" /></p>
-                {{ .Summary | html }}</description>
+            <description>{{ .Summary | html }}</description>
         </item>
         {{ end }}
     </channel>
