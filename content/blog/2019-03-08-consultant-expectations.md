@@ -12,7 +12,7 @@ As a freelance consultant, I get asked questions all the time by my clients. And
 least I like to think so. But I don't always know the answers right away. \
 
 Sometimes a client has a question about something that I've never dealt with before, sometimes they want to know if I've
-heard of a certain tactic that someone else has been using, and sometimes they just want to know if I've heard ot a 
+heard of a certain tactic that someone else has been using, and sometimes they just want to know if I've heard of a 
 certain person. \
 
 I think there is a certain amount of pressure put on consultants to know all of the answers to every question, all the 
