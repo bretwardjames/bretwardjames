@@ -1,16 +1,15 @@
 ---
 title: "Inventive is King"
-date: 2019-06-06T08:00:00
+date: 2019-06-07T08:00:00
 draft: false
-featured_image: "congrats.gif"
+featured_image: "incentive.jpeg"
 url: /blog/incentive-is-king
 categories:
 - Business
 ---
 
 They say "Cash is King". I think what *they* mean by that is that cash (money) is something that everyone can use more of,
-and therefore it's something that you can use in almost any case as a means of motivating or leveraging someone to do 
-what you want.
+and therefore it's something that you can use as a means of motivating or leveraging just about anyone to do what you want.
 
 Some businesses will offer `Cash Back` or a `Gift Card With Purchase` as a way to take advantage of that idea, trying to 
 motivate their prospect to purchase by offering cash in return for a purchase.
@@ -21,7 +20,14 @@ Every. Single. Time.
 
 But for some reason my brain has a way of rationalizing that it's a good decision.
 
-Anyhoo, I digress.
+<center>
+
+&nbsp;
+
+#### I digress.
+&nbsp;
+
+</center>
 
 Turns out the whole thing is completely false! Cash is *not* actually king. Cash is just the lowest common denominator 
 *medium*.
@@ -42,16 +48,19 @@ we are, rightly so, `looking out for #1` the vast majority of the time.
 
 But what we fail to notice is how often the realization of our incentive lies *beyond* the incentives of others.
 
-For example:
+For example (I use customer service examples a lot because they're easy):
 
 You call up customer service for Walmart.com because your order of deep fried twinky wings won't go through, even though 
 you *know* there's enough money on the card.
+
+&nbsp;
 
 <center>
 
 {{< figure src="https://media.giphy.com/media/TKQfYLlfSTDEI/giphy.gif" >}}
 
 </center>
+&nbsp;
 
 You are obviously upset - twinky wings are just the greatest thing ever and you may not get them, and as far as you can 
 tell, it's the website's fault. There's nothing wrong with expecting a service provider to, you know, provide the service
@@ -88,6 +97,50 @@ Enter the million dollar question:
 Something like this, maybe? 
 
 </center>
+&nbsp;
 
-Now imagine your *job* is to pick up the phone to people like that, all day, every day, for almost no money. Can you 
-imagine a universe where 
+Now imagine your *job* is to pick up the phone to people like that, all day, every day, for almost no money. 
+
+You have one incentive: `Don't get fired. `
+
+And to not get fired, you basically just have to show up, answer the phone, and wait out the person's emotional thunderstorm
+until they get tired and hang up. Can you imagine a universe where you feel *incentivized* to go above and beyond for 
+any of them?
+
+Methinks not.
+
+Ok now let's go back to being the twinky wing lover.
+
+If what you actually want is twinky wings, and not the emotional release of yelling at someone for not giving them to 
+you (which you do), then you now have a different incentive.
+
+You now have *incentive* to ***incentivize*** the support rep to get you what you want. So now you have to set aside your
+ravenous hunger (for wings) and thirst (for vengeance) so you can discover what incentivizes him. 
+
+Fortunately (or unfortunately, depending on your perspective), incentivizing a support rep doesn't require that much.
+They are treated so terribly that simple gestures of kindness and consideration go a LONG way to overcoming their incentive
+to not care about you and your problems and create real incentive for them to help you. 
+
+You've made their day *better*, so they become more invested in your cause.
+
+Now, lest you forget what I mentioned earlier - this isn't about being randomly kind to strangers and going out of your
+way to brighten peoples' lives. That may or may not be a good idea in and of itself, but what I'm talking about here is
+has purely selfish motivations. 
+
+What I'm getting at is there's a way to approach situations to make it easier to get what you want.
+
+In order to get what *I* want, I have to *incentivize* those who can help me get it. And if I *don't* provide proper
+incentive, I won't get what I want. 
+
+Therefore, to get what I want, I have to think first of what the other person wants, and *only* then will I get what I
+want.
+
+&nbsp;
+
+<center>
+
+# Or, to put it plainly, stop biting hands. Most of them feed you.
+
+</center>
+
+&nbsp;
