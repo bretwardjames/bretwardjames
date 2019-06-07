@@ -2,17 +2,17 @@
 {{ partial "sidebar.html" . }}
 
 <div class="main-content">
+	{{ if gt (len (where .Data.Pages "Type" "blog")) 0 }}{{ partial "blog.html" . }}{{ end }}
 	{{ if .Site.Data.skills }}{{ partial "skills.html" . }}{{ end }}
 	{{ if .Site.Data.experience }}{{ partial "experience.html" . }}{{ end }}
-	{{ if .Site.Data.services }}{{ partial "services.html" . }}{{ end }}
 </div>
 
 <div id="overEl" class="d-none" style="z-index: 4; position: relative;">
-	{{ if gt (len (where .Data.Pages "Type" "blog")) 0 }}{{ partial "blog.html" . }}{{ end }}
 	{{ if gt (len (where .Data.Pages "Type" "stuff")) 0 }}{{ partial "stuff.html" . }}{{ end }}
 </div>
 
 <div class="main-content">
+	{{ if .Site.Data.services }}{{ partial "services.html" . }}{{ end }}
 	{{ partial "contact.html" . }}		
 </div>
 

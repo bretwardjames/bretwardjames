@@ -1,7 +1,8 @@
-<section class="green">
-  <h2 class="heading">
-    <a class="text-dark" href="{{.Site.BaseURL}}blog">Blog</a>
+<section class="voilet">
+  <h2 class="heading" style="margin-bottom: 5px;">
+    Blog
   </h2>
+  <p>Read my musings</p>
 
   <div class="row">
     {{ range first 2 (where (where .Site.Pages "Section" "blog") ".Title" "!=" "Blogs" )}}
