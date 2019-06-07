@@ -7,6 +7,9 @@ featured_image: "frustrated.jpg"
 url: /blog/people-dont-think-like-you-think-they-do-morning-coffee-27
 categories:
 - Morning Coffee
+- Business
+- Mindset
+- Life Advice
 ---
 
 I don't know why I'm still surprised when I find out that people don't always think exactly like me.  
