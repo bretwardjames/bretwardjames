@@ -82,7 +82,7 @@ the way through, even to myself.
 
 Once I’d recorded the component parts, I let that be it.
 
-And then, almost 7 years later, I sat down and decided to actually play the song.
+And then, almost 5 years later, I sat down and decided to actually play the song.
 
 So the video above is the very first time EVER that this song has been performed all the way through.
 
