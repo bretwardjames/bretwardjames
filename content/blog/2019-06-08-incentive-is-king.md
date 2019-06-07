@@ -1,5 +1,5 @@
 ---
-title: "Inventive is King"
+title: "Incentive is King"
 date: 2019-06-07T08:00:00
 draft: false
 featured_image: "incentive.jpeg"
