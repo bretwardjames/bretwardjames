@@ -1,0 +1,22 @@
+
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ with $related }}
+<div style="margin-top: 50px"></div>
+<p>Check out these related posts</p>
+<div style="width:100%; margin-bottom: 25px;">
+    {{ range . }}
+        <div class="col-4 wow fadeInDown" data-wow-duration="500ms" style="float:left; margin-bottom:15px">
+            <div class="related-post">
+                <div class="post-photo">
+                    {{"<!-- post photo -->" | safeHTML}}
+                    <a href="{{ .RelPermalink }}"><img class="img-fluid" src="{{.Site.BaseURL}}images/blog/{{ .Params.featured_image }}" alt="{{ .Title }}"></a>
+                    {{"<!-- post name & designation -->" | safeHTML}}
+                    <div class="mask">
+                        <a href="{{ .RelPermalink }}"><h4>{{ .Title }}</h4></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+{{ end }}
+</div>

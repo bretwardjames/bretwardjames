@@ -500,4 +500,109 @@ button.consult span {
   -o-border-radius: 4px;
   border-radius: 4px;
 }
+
+/*=================================================================
+  Our Team
+==================================================================*/
+.related-post {
+  background-color: #292F36;
+  margin-bottom: 10px;
+  height: 175px;
+}
+
+.related-post:hover .mask {
+  cursor: pointer;
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transform: rotateY(0deg) scale(1, 1);
+  transform: rotateY(0deg) scale(1, 1);
+}
+
+.post-photo {
+  overflow: hidden;
+  position: relative;
+  height: 175px;
+  object-fit: cover;
+}
+
+@media (max-width: 300px) {
+  .post-photo {
+    text-align: center;
+  }
+}
+
+.post-photo:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.post-photo img {
+  transition: all 0.4s ease 0s;
+  height:175px;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .post-photo img {
+    display: inline-block;
+  }
+}
+
+.post-photo .mask {
+  background-color: rgba(14, 14, 14, 0.7);
+  position: absolute;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  transition: all .5s ease-out 0s;
+  -webkit-transform: rotateY(180deg) scale(0.5, 0.5);
+  transform: rotateY(180deg) scale(0.5, 0.5);
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px
+}
+
+.post-photo .mask h4 {
+  color: white;
+}
+
+.post-photo .mask ul {
+  text-align: center;
+  position: relative;
+  top: 125px;
+}
+
+.post-photo .mask ul li a {
+  border: 1px solid #fff;
+  color: #fff;
+  display: inline;
+  font-size: 20px;
+  height: 50px;
+  line-height: 35px;
+  text-align: center;
+  width: 100px;
+}
+
+.post-photo .mask ul li a:hover {
+  background-color: #fff;
+  color: #57cbcc;
+  border: 1px solid transparent;
+}
+
+.post-meta {
+  padding: 15px;
+}
+
+.post-meta h4 {
+  margin: 0 0 5px;
+}
+
+.post-meta span {
+  font-size: 12px;
+}
 /*# sourceMappingURL=styles.css.map */

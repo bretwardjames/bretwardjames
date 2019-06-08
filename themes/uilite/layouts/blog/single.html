@@ -5,13 +5,18 @@
 	<h1 class="text-center heading">{{ .Title }}</h1>
 	<small class="text-center d-block text-muted">Posted on {{.Date.Format "Jan 2, 2006"}}</small>
 </div>
-
+{{ partial "share.html" . }}
 <article style="max-width:890px" class="container w-100 my-5">
 	{{ .Content }}
 
-	{{ partial "share.html" . }}
+
+	{{ partial "related.html" . }}
+
+	<div style="clear:both;margin-bottom:15px"></div>
 
 	{{ partial "disqus.html" . }}
+
+
 
 </article>
 
