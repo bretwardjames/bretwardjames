@@ -23,7 +23,6 @@
                 <title>{{ .Title }}</title>
                 <link>https://bretwardjames.com</link>
             </image>
-            <enclosure type="image/jpeg" medium="image" width="900" height="600" url="" />
             <guid>{{ .Permalink }}</guid>
             <description>{{ .Summary | html }}</description>
         </item>
