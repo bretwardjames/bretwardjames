@@ -22,6 +22,8 @@
                 <url>https://bretwardjames.com/images/blog/{{ .Params.featured_image }}</url>
                 <title>{{ .Title }}</title>
                 <link>https://bretwardjames.com</link>
+                <width>900px</width>
+                <height>600px</height>
             </image>
             <guid>{{ .Permalink }}</guid>
             <description>{{ .Summary | html }}</description>
