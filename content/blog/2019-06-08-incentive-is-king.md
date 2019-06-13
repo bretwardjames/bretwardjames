@@ -6,6 +6,7 @@ featured_image: "incentive.jpeg"
 url: /blog/incentive-is-king
 categories:
 - Business
+- Mindset
 ---
 
 They say "Cash is King". I think what *they* mean by that is that cash (money) is something that everyone can use more of,
