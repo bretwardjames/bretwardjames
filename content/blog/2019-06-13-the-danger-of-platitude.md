@@ -2,7 +2,7 @@
 title: "The Danger of Platitude"
 date: 2019-06-13T08:00:00
 draft: false
-featured_image: "platitude.jpg"
+featured_image: "same.gif"
 url: /blog/the-danger-of-platitude
 categories:
 - Business
