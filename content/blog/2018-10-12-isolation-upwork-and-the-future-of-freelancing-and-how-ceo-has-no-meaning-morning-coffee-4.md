@@ -11,7 +11,7 @@ categories:
 - Business
 ---
 
-{{< youtube mlFywnEBqV8 >}}
+{{< youtube mlFywnEBqV8 >}} \
 
 There's a lot to being self-employed or working remotely that goes unaddressed. Never fear, I shall address it!!
 
