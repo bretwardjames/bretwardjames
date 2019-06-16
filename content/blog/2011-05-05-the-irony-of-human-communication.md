@@ -15,7 +15,7 @@ You know, for supposedly being the only species capable of advanced communicatio
 
 This isn't going to be a rant or a rave about how some particular person angered me with their inability to communicate effectively. This is simply the expression of an idea that occurred to me today. It's sort of the final piece to a puzzle where it's impossible to really tell what the puzzle is until you have all of the pieces. Needless to say, this little idea was particularly revelatory.
 
-I've struggled for a long time with this. I've wondered how it is that everyone else in the world seems to automatically understand everything that is said by everyone else, where I tend to be very confused at times. I've also wondered those same people that understand everything else that's said by every other person never really seem to understand what I am trying to say to them. 
+I've struggled for a long time with this. I've wondered how it is that everyone else in the world seems to automatically understand everything that is said by everyone else, where I tend to be very confused at times. I've also wondered why those same people that understand everything else that's said by every other person never really seem to understand what I am trying to say to them. 
 
 <center>
 {{< figure src="https://media.giphy.com/media/Wow3QqPZLmgCI/giphy.gif" >}}
