@@ -77,7 +77,7 @@ I think what I'm trying to say is that we should all take a second to take stock
 
 We try to explain to ourselves why a person feels the way that they do, in hopes that it will make us feel better about our own inaction. We walk around, very full of ourselves and our supposed command of our own language, when really, we are no more in command of our native language than we are in command of the seasons. If anything, our language commands us. It directs the way we think and molds us into a certain type of person.
 
-That is, I think, why I prefer to be with people that aren't always trying to talk their way through  The words just mess it up. Maybe the moral of this story is this:
+That is, I think, why I prefer to just _be_ what I'm trying to be, instead of always trying to _express_ what I'm trying to be. The words just mess it up. Maybe the moral of this story is this:
 
 
 When the fervor's ablaze in your breast, \
