@@ -8,3 +8,8 @@ HUGO_ENV = "production"
   force = true
   status = 301
 
+  from = "/morningcoffee"
+  to = "/blog/infusionsoft-the-early-days-morning-coffee-16/"
+  force = true
+  status = 301
+
