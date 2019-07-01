@@ -9,6 +9,7 @@ categories:
 - Morning Coffee
 ---
 
+{{< youtube 6Jj_d6JDuo8 >}}
 
 It's crazy to realize how much my early days at Infusionsoft have influenced the rest of my life.
 
