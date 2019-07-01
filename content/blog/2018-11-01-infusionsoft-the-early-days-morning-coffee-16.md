@@ -32,7 +32,7 @@ And they kind of define me in some ways.
 
 The first is a lesson from Brad, and it's broken into two parts:
 
-1. How you format emails to customers matters just as much as what you say in them.
+## 1. How you format emails to customers matters just as much as what you say in them.
 
 I don't know if Brad was consciously creating a system back then, or if it was just instinctual, but we had a very specific format for how emails were formatted.
 
@@ -40,7 +40,7 @@ Spaces between paragraphs, not too much wording, short, to the point.
 
 I can still type "Let me know if you have any other questions" with my eyes closed because of the muscle memory I developed then.
 
-2. If you exchange more than 2 emails with a customer, call them. 
+## 2. If you exchange more than 2 emails with a customer, call them. 
 
 It's very easy to use email as a way of putting off the real work, which is digging in with the customer and fixing the problem. The phone takes away your hiding place.
 
