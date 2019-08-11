@@ -19,3 +19,9 @@ HUGO_ENV = "production"
   to = "/blog/a-conversation-with-an-assassin-vol-1/"
   force = true
   status = 301
+
+  [[redirects]]
+    from = "/photo"
+    to = "https://bretwardjames.myportfolio.com"
+    force = true
+    status = 301
