@@ -8,6 +8,7 @@ categories:
 - Business
 - Mindset
 - Life
+- Taskwarrior
 ---
 
 {{< youtube N0IDWHio5qk >}} \
