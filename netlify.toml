@@ -20,20 +20,20 @@ HUGO_ENV = "production"
   force = true
   status = 301
 
-  [[redirects]]
-    from = "/photo"
-    to = "https://bretwardjames.myportfolio.com"
-    force = true
-    status = 301
+[[redirects]]
+  from = "/photo"
+  to = "https://bretwardjames.myportfolio.com"
+  force = true
+  status = 301
 
- [[Redirects]]
-    from = "/plusthis"
-    to = "https://plusthis.com?ac=zp3h19"
-    force = true
-    status = 301
+[[redirects]]
+  from = "/plusthis"
+  to = "https://plusthis.com?ac=zp3h19"
+  force = true
+  status = 301
 
- [[Redirects]]
-    from = "monkeypod"
-    to = "https://cr984.isrefer.com/go/courses/wunntee"
-    force = true
-    status = 301
+[[redirects]]
+  from = "/monkeypod"
+  to = "https://cr984.isrefer.com/go/courses/wunntee"
+  force = true
+  status = 301
