@@ -43,3 +43,10 @@ HUGO_ENV = "production"
   to = "https://www.picsnippets.com?afmc=6d"
   force = true
   status = 301
+
+
+[[redirects]]
+  from = "/fyf"
+  to = "https://getfast.biz/goldfaXy"
+  force = true
+  status = 301
