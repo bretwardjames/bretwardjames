@@ -2,7 +2,7 @@
 title: "Taskwarrior will prioritize your tasks for you!"
 date: 2019-08-20T08:00:00
 draft: false
-featured_image: "taskwarrior2.png"
+featured_image: "taskwarrior2.jpg"
 url: /blog/taskwarrior-will-prioritize-your-tasks-for-you
 categories:
 - Business

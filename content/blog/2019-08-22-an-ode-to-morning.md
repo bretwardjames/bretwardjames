@@ -2,7 +2,7 @@
 title: "An Ode to the Morning"
 date: 2019-08-22T08:00:00
 draft: false
-featured_image: "morning.png"
+featured_image: "morning.jpg"
 url: /blog/an-ode-to-the-morning
 categories:
 - Business
