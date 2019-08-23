@@ -37,3 +37,9 @@ HUGO_ENV = "production"
   to = "https://cr984.isrefer.com/go/courses/wunntee"
   force = true
   status = 301
+
+[[redirects]]
+  from = "/picsnippets"
+  to = "https://www.picsnippets.com?afmc=6d"
+  force = true
+  status = 301
