@@ -50,3 +50,16 @@ HUGO_ENV = "production"
   to = "https://getfast.biz/goldfaXy"
   force = true
   status = 301
+
+
+[[redirects]]
+  from = "/infusionsoft"
+  to = "https://keap.com/infusionsoft?PartnerId=0013a00001cXnLq&AffiliateCode=a74749&CampaignId=701j0000001mlwy&TrackingLinkId=a1Bj0000002IwQc&Link_Posted_By__c=0053a00000L9TfR&ls=icc_general-icc_demo%7Egeneral-demo-icc%7E2013-3-7__&utm_source=general&utm_medium=partner&utm_campaign=demo%7EDecision---Infusionsoft-Demo%7E2016-01-26__"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "/keap"
+  to = "https://keap.com/?PartnerId=0013a00001cXnLq&AffiliateCode=a74749&CampaignId=701j0000001mlwy&TrackingLinkId=a1Bj0000002JwCz&Link_Posted_By__c=0053a00000L9TfR&ls=icc_general-icc_awareness~infusionsoft-homepage-pp~2016-03-15__&utm_source=general&utm_medium=partner&utm_campaign=awareness~Awareness---Keap-Homepage~2016-03-15__"
+  force = true
+  status = 301
