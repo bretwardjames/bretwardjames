@@ -30,9 +30,9 @@ Once it's installed, initialize Timwarrior:
 
 The next thing you want to do is install the hook to start time tracking when a task is started in Taskwarrior:
 
-```cd ~/.task/hooks
-wget https://raw.githubusercontent.com/GothenburgBitFactory/timewarrior/dev/ext/on-modify.timewarrior
-sudo chmod +x on-modify.timewarrior```
+```cd ~/.task/hooks```
+```wget https://raw.githubusercontent.com/GothenburgBitFactory/timewarrior/dev/ext/on-modify.timewarrior```
+```sudo chmod +x on-modify.timewarrior```
 
 Now, just start a task:
 
