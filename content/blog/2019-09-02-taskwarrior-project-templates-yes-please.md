@@ -17,19 +17,19 @@ categories:
 
 First, open a new file using nano:
 
-```sudo nano videofile```
+`sudo nano videofile`
 
 Next, add your tasks, separated by a new line:
 
 record video \
 edit video \
-upload video \
+upload video 
 
 Then just add "task add" to the front of each line:
 
 _task add_ record video \
 _task add_ edit video \
-_task add_ upload video \
+_task add_ upload video 
 
 
 Now exit the file and save:
