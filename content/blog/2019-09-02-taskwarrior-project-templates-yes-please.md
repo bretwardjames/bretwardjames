@@ -13,7 +13,7 @@ categories:
 
 {{< youtube I_BGFK6XA4k >}} 
 
-##Creating a project template from an executable file
+## Creating a project template from an executable file
 
 First, open a new file using nano:
 
