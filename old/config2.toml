@@ -1,0 +1,24 @@
+baseURL = "https://bretwardjames.com/"
+languageCode = "en-us"
+title = "Bretward James"
+theme = "hugo-split-theme"
+disableKinds = ['taxonomy', 'taxonomyTerm']
+enableEmoji = "true"
+
+[outputs]
+home = [ "HTML", "RSS"]
+blog = [ "HTML", "RSS"]
+stuff = [ "HTML", "RSS"]
+
+[related]
+
+  threshold = "80"
+  includeNewer = "true"
+  toLower = "true"
+
+[[related.indices]]
+  name = "categories"
+  weight = "100"
+[[related.indices]]
+  name = "date"
+  weight = "10"
