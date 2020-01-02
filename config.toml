@@ -6,7 +6,7 @@ theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-135765193-1"
+googleAnalytics = ""
 
 # Copyright
 copyright = "&copy;2019 Bret Martineau"
