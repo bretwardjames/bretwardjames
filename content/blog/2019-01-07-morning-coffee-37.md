@@ -84,14 +84,14 @@ _And I’m not talking about marriage or infidelity, this is a metaphor._
 
 # The Wife
 
-   ![wife](/images/blog/wife.jpeg)
+   ![wife](/content/images/blog/wife.jpeg)
 
 A man is loyal to his wife, he comes home to his wife, eats dinner with his wife, and works day in and day out to support his wife. His wife represents everything that is steadfast in his life. She is there for him when he needs her, and most importantly, he is committed to her enough to work on their relationship. If things aren’t great, they go to counseling. If there are problems, he talks them out with her. He wants it to work, and everything he does (well, almost everything), is to ensure that the marriage succeeds.
   
 
 # The Mistress
 
-   ![mistress](/images/blog/mistress.jpeg) 
+   ![mistress](/content/images/blog/mistress.jpeg) 
 
 However, the man sometimes gets restless and turns to his mistress. He doesn’t love her, but she provides a much needed (and short lived) release from the steadiness of the wife. He is not committed to his mistress. If there are issues with the mistress, he can leave and find another. The mistress is fully aware of this, and is not looking for anything more. It’s not to say that he can’t fall in love with his mistress, but then she becomes his wife and some other “strumpet” takes her place as the mistress.
 
@@ -99,7 +99,7 @@ However, the man sometimes gets restless and turns to his mistress. He doesn’t
 
 # The Vice
 
-   ![](/images/blog/vice.jpeg)
+   ![](/content/images/blog/vice.jpeg)
 
 In other cases, the man needs a break from women altogether. He needs something that doesn’t require any other person, and that he doesn’t have to share. His vices are for him and him alone. He doesn’t abuse them, because he understands that overindulgence will make him soft. He partakes when he needs to, and then returns to his wife.
 

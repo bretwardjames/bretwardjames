@@ -2,7 +2,7 @@
 baseURL = "https://bretwardjames.co"
 languageCode = "en-US"
 title = "Bret Martineau"
-theme = "hugo-split-theme"
+theme = "hugo-theme-terminal"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics

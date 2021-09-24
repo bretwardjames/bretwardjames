@@ -32,7 +32,7 @@ Action (optimized for conversions)
 \
 The next thing you need to do is set all of your campaigns to optimize the spend at the campaign level:
 
-![Campaign Budget](/images/blog/campaign-budget.png)
+![Campaign Budget](/content/images/blog/campaign-budget.png)
 
 You can set each campaign to a limited budget of as low as $2/day (around $65/mo). That would total out to $8/day across all 4 of the campaigns (or $260/mo). 
 
@@ -40,7 +40,7 @@ You can set each campaign to a limited budget of as low as $2/day (around $65/mo
 \
 Within each of the above campaigns, set up ad sets to distinguish between target groups. I normally have 3 ad sets per campaign:
 
-![Audience Rollups](/images/blog/audience-rollups.png)
+![Audience Rollups](/content/images/blog/audience-rollups.png)
 
 Warm audience rollup - basically anyone that has engaged in any way (watched video, clicked to website, liked/commented/shared post, etc)
 
@@ -58,7 +58,7 @@ And now for the secret sauce.
 
 So if you release a new video intended for your followers, here’s what you do:
 
-![Campaign Setup](/images/blog/campaign-setup.png)
+![Campaign Setup](/content/images/blog/campaign-setup.png)
 
 Navigate to the Video Engagement campaign
 
