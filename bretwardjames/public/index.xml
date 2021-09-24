@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bretward James</title>
@@ -6,9 +6,17 @@
     <description>Recent content on Bretward James</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="bretwardjames.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 08 Jan 2019 22:34:34 -0800</lastBuildDate><atom:link href="bretwardjames.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook Ads On A Fixed Budget - Tech Tips #1</title>
+      <link>bretwardjames.com/blog/stuff/</link>
+      <pubDate>Tue, 08 Jan 2019 22:34:34 -0800</pubDate>
+      
+      <guid>bretwardjames.com/blog/stuff/</guid>
+      <description>If you’re running Facebook ads, you probably don’t have an unlimited budget. (side note - if you do have an unlimited budget, my hat goes off to you. also, you should give me some)
+The problem with being on a limited budget is keeping track of how much you’re spending across the various campaigns that you’re running, not to mention the posts that you’re boosting.
+However, there’s a little hack you can use to make sure that no matter what you do, your monthly ad spend will always be the same.</description>
+    </item>
     
   </channel>
 </rss>

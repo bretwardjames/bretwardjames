@@ -1,4 +1,4 @@
 +++
 title = "Bret Martineau"
-tagline = "Yep, only 1 't'"
+tagline = "Yep, just the 1 't'"
 +++
