@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://bretwardjames.com"
+baseURL = "https://bretwardjames.netlify.app"
 languageCode = "en-US"
 title = "Bret Martineau"
 theme = "hugo-split-theme"
