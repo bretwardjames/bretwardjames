@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f93a20ed-5ff1-44a1-9e6d-7388dc7fd7b0" name="Changes" comment="re-adding submodule, pulled hopefully that refreshes">
+    <list default="true" id="f93a20ed-5ff1-44a1-9e6d-7388dc7fd7b0" name="Changes" comment="pushing site settings">
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632444405512</updated>
-      <workItem from="1632444406899" duration="2503000" />
+      <workItem from="1632444406899" duration="2629000" />
     </task>
     <task id="LOCAL-00001" summary="updating homepage">
       <created>1632445882409</created>
@@ -62,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632446503033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pushing site settings">
+      <created>1632446942719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632446942719</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +90,7 @@
     <MESSAGE value="updating homepage" />
     <MESSAGE value="removing split as submodule, maybe that will fix display issues" />
     <MESSAGE value="re-adding submodule, pulled hopefully that refreshes" />
-    <option name="LAST_COMMIT_MESSAGE" value="re-adding submodule, pulled hopefully that refreshes" />
+    <MESSAGE value="pushing site settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing site settings" />
   </component>
 </project>
