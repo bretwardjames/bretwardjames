@@ -80,8 +80,8 @@ copyright = "&copy;2019 Bret Martineau"
       heading = "Stuff"
 
       [[params.links.list3.link]]
-        text = "Martin O'Foto"
-        url = "https://martin-ofoto.com"
+        text = "GitHub"
+        url = "https://github.com/bretwardjames"
 
       [[params.links.list3.link]]
         text = "YouTube"
