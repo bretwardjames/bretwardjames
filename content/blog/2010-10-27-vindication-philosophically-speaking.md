@@ -5,7 +5,7 @@ draft: true
 title: Vindication, philosophically speaking
 
 url: /blog/vindication-philosophically-speaking
-categories:
+tags:
 - Random
 ---
 

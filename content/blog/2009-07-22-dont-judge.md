@@ -5,7 +5,7 @@ draft: true
 title: Don’t Judge
 
 url: /blog/dont-judge
-categories:
+tags:
 - Jack Handy
 - Rants, etc-
 ---

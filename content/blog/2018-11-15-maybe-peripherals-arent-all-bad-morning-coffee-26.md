@@ -5,7 +5,7 @@ draft: true
 title: 'Maybe Peripherals Aren''t ALL Bad - Morning Coffee #26'
 
 url: /blog/maybe-peripherals-arent-all-bad-morning-coffee-26
-categories:
+tags:
 - Morning Coffee
 ---
 

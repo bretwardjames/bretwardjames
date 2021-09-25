@@ -5,7 +5,7 @@ draft: true
 title: Honesty and things (Think Like Me - 1)
 featured_image: 'tlm-logo.jpg'
 url: /blog/honesty-and-things
-categories:
+tags:
 - Podcast
 ---
 

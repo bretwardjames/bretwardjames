@@ -4,12 +4,12 @@ date: 2019-03-24T17:17:33
 draft: false
 featured_image: "kevmarv.png"
 url: /blog/featuring-kevin-the-soul-assassin-ross-and-marvin-the-mad-lion-madariaga
-categories:
+tags:
 - Muay Thai
 - Podcast
 ---
 
-{{< youtube fmLWlm6Ewyw >}} \
+{{< youtube fmLWlm6Ewyw >}} 
 
 Absolute legends in their own right, Kevin and Marvin, stop by to chat a bit about fighting and some of the differences 
 between the old school fight mentality and the struggle of a fighter coming up now. 

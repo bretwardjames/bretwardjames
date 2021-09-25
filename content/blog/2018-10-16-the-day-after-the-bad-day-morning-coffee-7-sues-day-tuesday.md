@@ -5,7 +5,7 @@ draft: true
 title: 'The Day After The Bad Day - Morning Coffee #7 (Sue''s day Tuesday)'
 
 url: /blog/the-day-after-the-bad-day-morning-coffee-7-sues-day-tuesday
-categories:
+tags:
 - Morning Coffee
 ---
 

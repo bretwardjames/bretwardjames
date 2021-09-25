@@ -5,7 +5,7 @@ draft: true
 title: Language is useless and things (Think Like Me - 11)
 featured_image: 'tlm-logo.jpg'
 url: /blog/language-is-useless-and-things
-categories:
+tags:
 - Podcast
 ---
 

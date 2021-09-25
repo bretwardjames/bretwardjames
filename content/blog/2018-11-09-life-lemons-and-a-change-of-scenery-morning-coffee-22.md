@@ -5,7 +5,7 @@ draft: true
 title: 'Life, Lemons, and a Change of Scenery - Morning Coffee #22'
 
 url: /blog/life-lemons-and-a-change-of-scenery-morning-coffee-22
-categories:
+tags:
 - Morning Coffee
 ---
 

@@ -5,7 +5,7 @@ draft: true
 title: So what’s wrong with being sheltered again?
 
 url: /blog/so-whats-wrong-with-being-sheltered-again
-categories:
+tags:
 - Rants, etc-
 ---
 

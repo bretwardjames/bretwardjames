@@ -5,7 +5,7 @@ draft: true
 title: Divorce and my exodus from mormonism and things (Think Like Me - 3)
 featured_image: 'tlm-logo.jpg'
 url: /blog/divorce-and-my-exodus-from-mormonism-and-things
-categories:
+tags:
 - Podcast
 ---
 

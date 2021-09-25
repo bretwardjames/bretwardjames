@@ -5,7 +5,7 @@ draft: false
 title: The Irony of Human Communication
 featured_image: "gibberish.gif"
 url: /blog/the-irony-of-human-communication
-categories:
+tags:
 - Mindset
 - Rants
 ---
@@ -80,8 +80,8 @@ We try to explain to ourselves why a person feels the way that they do, in hopes
 That is, I think, why I prefer to just _be_ what I'm trying to be, instead of always trying to _express_ what I'm trying to be. The words just mess it up. Maybe the moral of this story is this:
 
 
-When the fervor's ablaze in your breast, \
-And your heart would leap out of your chest, \
-Try not first to speak. \
-Try instead this technique: \
-Let with action the yen be expressed. \
+When the fervor's ablaze in your breast, 
+And your heart would leap out of your chest, 
+Try not first to speak. 
+Try instead this technique: 
+Let with action the yen be expressed. 

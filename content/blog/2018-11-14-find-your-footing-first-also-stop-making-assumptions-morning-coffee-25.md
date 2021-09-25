@@ -5,7 +5,7 @@ draft: true
 title: 'Find Your Footing First (also, stop making assumptions) - Morning Coffee #25'
 
 url: /blog/find-your-footing-first-also-stop-making-assumptions-morning-coffee-25
-categories:
+tags:
 - Morning Coffee
 ---
 

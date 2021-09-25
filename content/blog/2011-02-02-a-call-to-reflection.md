@@ -5,7 +5,7 @@ draft: true
 title: A Call to Reflection
 
 url: /blog/a-call-to-reflection
-categories:
+tags:
 - Random
 - Rants, etc-
 ---

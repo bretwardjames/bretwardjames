@@ -5,7 +5,7 @@ draft: true
 title: Sparring and relationships and things (Think Like Me - 10)
 featured_image: 'tlm-logo.jpg'
 url: /blog/sparring-and-relationships-and-things
-categories:
+tags:
 - Podcast
 ---
 

@@ -4,13 +4,13 @@ date: 2019-08-22T08:00:00
 draft: false
 featured_image: "morning.jpg"
 url: /blog/an-ode-to-the-morning
-categories:
+tags:
 - Business
 - Mindset
 - Life
 ---
 
-{{< youtube hJCE9LvtyNU >}} \
+{{< youtube hJCE9LvtyNU >}} 
 
 I am a morning person. As tired or grumpy as I may be - the morning is always a time of calm and reflection. 
 

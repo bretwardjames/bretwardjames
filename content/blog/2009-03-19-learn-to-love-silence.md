@@ -5,7 +5,7 @@ draft: true
 title: Learn to love silence
 
 url: /blog/learn-to-love-silence
-categories:
+tags:
 - Jack Handy
 ---
 

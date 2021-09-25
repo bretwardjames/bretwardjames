@@ -5,7 +5,7 @@ draft: true
 title: 'Infusionsoft: The Early Days (vol 3) - Morning Coffee #18'
 
 url: /blog/infusionsoft-the-early-days-vol-3-morning-coffee-18
-categories:
+tags:
 - Morning Coffee
 ---
 

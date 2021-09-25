@@ -4,13 +4,13 @@ date: 2019-08-08T08:00:00
 draft: false
 featured_image: "strategy.png"
 url: /blog/strategy-vs-tactic
-categories:
+tags:
 - Business
 - Mindset
 - Life
 ---
 
-{{< youtube JPUeAeGcQAM >}} \
+{{< youtube JPUeAeGcQAM >}} 
 
 There is a strategic and a tactical side of every fight, every battle, everything that you do. Where am I going to place my people? When am I going to push? Who forward where to pull out the enemies x versus y so that I can then dominate when I want to. It has everything to do with data. It has everything to do with experience and has very little to do with combat skill. Chess was designed to take the physical ability out of battle and train strategists to be able to deploy the correct forces of the right amount of forces at the right time. Now again, I am a terrible, terrible strategist when it comes to chess. And as you can probably already see, I'm losing this game and I'm, I remember what about five moves in a, I'm gonna move some pieces. It also doesn't help that I'm distracted because I am, uh, trying to play this game while I'm making a video. 
 

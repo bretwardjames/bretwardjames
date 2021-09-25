@@ -6,7 +6,7 @@ title: 'That One Time My Video Took Down The Infusionsoft Website - Morning Coff
   #19'
 
 url: /blog/that-one-time-my-video-took-down-the-infusionsoft-website-morning-coffee-19
-categories:
+tags:
 - Morning Coffee
 ---
 

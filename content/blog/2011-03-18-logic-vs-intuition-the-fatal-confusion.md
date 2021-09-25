@@ -5,7 +5,7 @@ draft: true
 title: 'Logic vs Intuition: the fatal confusion'
 
 url: /blog/logic-vs-intuition-the-fatal-confusion
-categories:
+tags:
 - Jack Handy
 - Rants, etc-
 ---

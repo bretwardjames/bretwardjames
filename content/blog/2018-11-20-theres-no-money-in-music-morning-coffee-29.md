@@ -5,7 +5,7 @@ draft: true
 title: '"There''s No Money In Music" - Morning Coffee #29'
 
 url: /blog/theres-no-money-in-music-morning-coffee-29
-categories:
+tags:
 - Morning Coffee
 ---
 

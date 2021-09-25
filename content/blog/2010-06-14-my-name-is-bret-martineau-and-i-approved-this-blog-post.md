@@ -5,7 +5,7 @@ draft: true
 title: My name is Bret Martineau and I approved this blog post.
 
 url: /blog/my-name-is-bret-martineau-and-i-approved-this-blog-post
-categories:
+tags:
 - Random
 ---
 

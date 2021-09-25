@@ -4,14 +4,14 @@ date: 2019-08-09T08:00:00
 draft: false
 featured_image: "task2.png"
 url: /blog/sexy-task-management
-categories:
+tags:
 - Business
 - Mindset
 - Life
 - Taskwarrior
 ---
 
-{{< youtube N0IDWHio5qk >}} \
+{{< youtube N0IDWHio5qk >}} 
 
 When you work at a job, you have what's called a manager. A lot of times your manager will have somebody do sole responsibility it is to make sure that what you're doing now is the best thing for you to be doing now. Sometimes it's the manager themselves, sometimes it's the boss, whoever it is, if you are not owning the business yourself, somebody else is in charge of telling you what you should be doing now. The problem is when you get out on your own start freelancing or you start your own business, or even if you start working remotely for a company, being able to keep track of what's most important right now and what you should be doing right now can cause problems and really sometimes you just don't understand what it is that you need to actually be doing. 
 

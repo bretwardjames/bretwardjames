@@ -5,7 +5,7 @@ draft: true
 title: 'There are 2 kinds of pain: the Pain of Discipline and the Pain of Regret'
 
 url: /blog/there-are-2-kinds-of-pain-the-pain-of-discipline-and-the-pain-of-regret
-categories:
+tags:
 - Jack Handy
 ---
 

@@ -5,7 +5,7 @@ draft: true
 title: Fear and respect and things (Think Like Me - 7)
 featured_image: 'tlm-logo.jpg'
 url: /blog/fear-and-respect-and-things
-categories:
+tags:
 - Podcast
 ---
 

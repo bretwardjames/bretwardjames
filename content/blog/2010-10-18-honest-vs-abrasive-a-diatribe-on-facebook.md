@@ -5,7 +5,7 @@ draft: true
 title: Honest vs. Abrasive (a diatribe on Facebook)
 
 url: /blog/honest-vs-abrasive-a-diatribe-on-facebook
-categories:
+tags:
 - Rants, etc-
 ---
 

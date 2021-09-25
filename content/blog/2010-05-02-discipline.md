@@ -5,7 +5,7 @@ draft: true
 title: Discipline
 
 url: /blog/discipline
-categories:
+tags:
 - Jack Handy
 ---
 

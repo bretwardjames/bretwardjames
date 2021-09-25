@@ -5,7 +5,7 @@ draft: true
 title: 'On Logic: a limerick'
 
 url: /blog/on-logic-a-limerick
-categories:
+tags:
 - Jack Handy
 - Pretty Things
 - Random

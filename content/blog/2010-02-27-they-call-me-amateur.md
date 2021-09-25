@@ -5,7 +5,7 @@ draft: true
 title: They call me amateur
 
 url: /blog/they-call-me-amateur
-categories:
+tags:
 - Pretty Things
 ---
 

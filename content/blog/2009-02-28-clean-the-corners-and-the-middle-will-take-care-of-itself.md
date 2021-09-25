@@ -5,7 +5,7 @@ draft: true
 title: Clean the corners, and the middle will take care of itself
 
 url: /blog/clean-the-corners-and-the-middle-will-take-care-of-itself
-categories:
+tags:
 - Jack Handy
 ---
 

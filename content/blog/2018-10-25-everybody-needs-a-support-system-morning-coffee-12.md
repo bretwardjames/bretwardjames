@@ -5,7 +5,7 @@ draft: true
 title: 'Everybody needs a support system - Morning Coffee #12'
 
 url: /blog/everybody-needs-a-support-system-morning-coffee-12
-categories:
+tags:
 - Morning Coffee
 ---
 

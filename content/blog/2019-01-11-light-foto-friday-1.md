@@ -5,7 +5,7 @@ draft: false
 title: 'Light - Foto Friday #1'
 featured_image: 'light.jpg'
 url: /blog/light-foto-friday-1
-categories:
+tags:
 - Foto Friday
 ---
 

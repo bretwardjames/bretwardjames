@@ -5,12 +5,12 @@ draft: false
 title: 'The Agency That SHOULD Exist - Morning Coffee #36'
 featured_image: 'the-agency-i-want.png'
 url: /blog/morning-coffee-36
-categories:
+tags:
 - Morning Coffee
 ---
 
 
-{{< youtube OFGGPTBrjuY >}} \
+{{< youtube OFGGPTBrjuY >}} 
  
 
 So I have this vision for an agency that would solve a MAJOR problem for freelance web talent (copywriters, designers, developers, marketers, etc).
@@ -35,7 +35,7 @@ There is obviously a lot that I could unpack there, but suffice it to say, I sta
 
 
  
-   {{< youtube UOWVtyb-pz4 >}} \
+   {{< youtube UOWVtyb-pz4 >}} 
 
  
 

@@ -5,7 +5,7 @@ draft: true
 title: Practice and training and things (Think Like Me - 17)
 featured_image: 'tlm-logo.jpg'
 url: /blog/practice-and-training-and-things-think-like-me-17
-categories:
+tags:
 - Podcast
 ---
 

@@ -5,7 +5,7 @@ draft: true
 title: You learn to do by doing; you learn to be by being
 
 url: /blog/you-learn-to-do-by-doing-you-learn-to-be-by-being
-categories:
+tags:
 - Jack Handy
 ---
 

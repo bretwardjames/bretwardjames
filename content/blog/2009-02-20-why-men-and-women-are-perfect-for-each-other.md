@@ -5,7 +5,7 @@ draft: true
 title: Why Men and Women are Perfect for Each Other
 
 url: /blog/why-men-and-women-are-perfect-for-each-other
-categories:
+tags:
 - Rants, etc-
 ---
 

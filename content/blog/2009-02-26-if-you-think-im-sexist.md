@@ -5,7 +5,7 @@ draft: true
 title: If you think I’m sexist…..
 
 url: /blog/if-you-think-im-sexist
-categories:
+tags:
 - Rants, etc-
 ---
 

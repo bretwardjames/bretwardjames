@@ -5,7 +5,7 @@ draft: true
 title: Easier said than done
 
 url: /blog/easier-said-than-done
-categories:
+tags:
 - Jack Handy
 - Rants, etc-
 ---

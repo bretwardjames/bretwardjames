@@ -5,7 +5,7 @@ draft: false
 title: 'People Don''t Think Like You Think They Do - Morning Coffee #27'
 featured_image: "frustrated.jpg"
 url: /blog/people-dont-think-like-you-think-they-do-morning-coffee-27
-categories:
+tags:
 - Morning Coffee
 - Business
 - Mindset

@@ -5,12 +5,12 @@ draft: false
 title: 'Certification (it''s just a piece of paper) - Morning Coffee #32'
 featured_image: 'morning-coffee-32.png'
 url: /blog/morning-coffee-32
-categories:
+tags:
 - Morning Coffee
 ---
 
 
-{{< youtube h6DC-meZ5G4 >}} \
+{{< youtube h6DC-meZ5G4 >}} 
  
 
 

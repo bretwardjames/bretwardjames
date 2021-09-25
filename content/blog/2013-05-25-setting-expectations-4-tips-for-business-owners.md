@@ -5,7 +5,7 @@ draft: true
 title: 'Setting Expectations: 4 Tips for Business Owners'
 
 url: /blog/setting-expectations-4-tips-for-business-owners
-categories:
+tags:
 - Business
 - Jack Handy
 ---

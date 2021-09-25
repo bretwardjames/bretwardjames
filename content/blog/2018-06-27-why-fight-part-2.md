@@ -5,7 +5,7 @@ draft: true
 title: 'Why Fight? - Reason #1: Humanity (part 2 of 5)'
 
 url: /blog/why-fight-part-2
-categories:
+tags:
 - Muay Thai
 ---
 

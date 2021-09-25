@@ -5,7 +5,7 @@ draft: true
 title: Homosexuality as a Physical Characteristic
 
 url: /blog/homosexuality-as-a-physical-characteristic
-categories:
+tags:
 - Random
 ---
 

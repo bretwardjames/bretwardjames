@@ -5,7 +5,7 @@ draft: true
 title: The Interview and spirituality and things (Think Like Me - 6)
 featured_image: 'tlm-logo.jpg'
 url: /blog/the-interview-and-spirituality-and-things
-categories:
+tags:
 - Podcast
 ---
 

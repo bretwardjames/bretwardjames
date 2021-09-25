@@ -5,7 +5,7 @@ draft: true
 title: Health and diet and things (Think Like Me - 4)
 featured_image: 'tlm-logo.jpg'
 url: /blog/health-and-diet-and-things
-categories:
+tags:
 - Podcast
 ---
 

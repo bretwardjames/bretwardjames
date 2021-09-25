@@ -5,7 +5,7 @@ draft: true
 title: Pokemon and politics and things (Think Like Me - 9)
 featured_image: 'tlm-logo.jpg'
 url: /blog/pokemon-and-politics-and-things
-categories:
+tags:
 - Podcast
 ---
 

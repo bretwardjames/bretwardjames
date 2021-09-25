@@ -4,13 +4,13 @@ date: 2019-08-07T08:00:00
 draft: false
 featured_image: "trust.png"
 url: /blog/trust-fund-business
-categories:
+tags:
 - Business
 - Mindset
 - Life
 ---
 
-{{< youtube UQ7rhg5Vbbc >}} \
+{{< youtube UQ7rhg5Vbbc >}} 
 
 I've been a freelance marketing and advertising consultant for about 15 years now and there's a couple of traits of business owners or businesses that I've noticed that by themselves are totally fine, clearly innocuous, but when you put them together, there's something about the combination of these two traits that have a tendency to be somewhat volatile or explosive. It's kind of like that experiment back in in high school, sodium chloride and whatever the other chemical is that makes things go boom.
 

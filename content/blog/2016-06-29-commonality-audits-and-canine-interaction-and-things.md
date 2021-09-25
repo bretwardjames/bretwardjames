@@ -5,7 +5,7 @@ draft: true
 title: Commonality Audits and canine interaction and things (Think Like Me - 5)
 featured_image: 'tlm-logo.jpg'
 url: /blog/commonality-audits-and-canine-interaction-and-things
-categories:
+tags:
 - Podcast
 ---
 

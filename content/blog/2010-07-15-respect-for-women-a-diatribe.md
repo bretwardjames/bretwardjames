@@ -5,7 +5,7 @@ draft: true
 title: Respect for Women (a diatribe)
 
 url: /blog/respect-for-women-a-diatribe
-categories:
+tags:
 - Rants, etc-
 ---
 

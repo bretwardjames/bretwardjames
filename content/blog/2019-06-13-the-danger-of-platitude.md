@@ -4,7 +4,7 @@ date: 2019-06-13T08:00:00
 draft: false
 featured_image: "platitude.png"
 url: /blog/the-danger-of-platitude
-categories:
+tags:
 - Business
 - Mindset
 - Life

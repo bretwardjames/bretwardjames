@@ -5,7 +5,7 @@ draft: true
 title: 'Working with your Spouse: Tips to Make it Work'
 
 url: /blog/working-with-your-spouse-tips-to-make-it-work
-categories:
+tags:
 - Business
 - Jack Handy
 ---

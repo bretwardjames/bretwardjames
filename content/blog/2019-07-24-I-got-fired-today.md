@@ -4,13 +4,13 @@ date: 2019-07-23T08:00:00
 draft: false
 featured_image: "fired2.png"
 url: /blog/i-got-fired-today
-categories:
+tags:
 - Business
 - Mindset
 - Life
 ---
 
-{{< youtube 8s8NJa-N-9A >}} \
+{{< youtube 8s8NJa-N-9A >}} 
 
 Getting fired is strangely one of my favorite things ever.
 

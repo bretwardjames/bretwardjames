@@ -5,7 +5,7 @@ draft: true
 title: Don't Trim Your Nose Hairs with a Chain Saw
 
 url: /blog/2018/6/20/dont-trim-your-nose-hairs-with-a-chain-saw
-categories:
+tags:
 - Business
 ---
 

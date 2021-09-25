@@ -5,7 +5,7 @@ draft: true
 title: Writing a song live and things (Think Like Me - 8)
 featured_image: 'tlm-logo.jpg'
 url: /blog/writing-a-song-live-and-things
-categories:
+tags:
 - Podcast
 ---
 

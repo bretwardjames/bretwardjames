@@ -5,7 +5,7 @@ draft: true
 title: Your Ego Can (and will) Hurt Your Customers
 
 url: /blog/your-ego-can-and-will-hurt-your-customers
-categories:
+tags:
 - Business
 - Random
 ---

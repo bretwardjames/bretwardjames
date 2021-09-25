@@ -5,7 +5,7 @@ draft: true
 title: 'That time I quit marketing - Morning Coffee #14'
 
 url: /blog/that-time-i-quit-marketing-morning-coffee-14
-categories:
+tags:
 - Morning Coffee
 ---
 

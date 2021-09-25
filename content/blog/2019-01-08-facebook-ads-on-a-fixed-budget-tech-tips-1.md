@@ -15,7 +15,7 @@ However, there’s a little hack you can use to make sure that no matter what yo
 Here’s how you do it:
 
 ## **1. Consolidate Your Campaigns**
-\
+
 The first thing you need to do is create 3-5 campaigns, organized by preferred outcome. 
 
 You may end up with more or less campaigns depending on whether you release video content. You’ll want to have a campaign for each type of content. So if you have videos, you’ll want a campaign optimized for video views. If you have blog content, you’ll want a campaign optimized for content views (viewContent). If you have content that is intended to get someone to take some action outside Facebook, you’ll want a campaign optimized for conversions. So, assuming you release videos on a regular basis, these are the campaigns you’d have:
@@ -27,9 +27,9 @@ Video Engagement (optimized for video views)
 Content Engagement (optimized for viewContent)
 
 Action (optimized for conversions)
-\
+
 ## **2. Campaign Budget Optimization**
-\
+
 The next thing you need to do is set all of your campaigns to optimize the spend at the campaign level:
 
 ![Campaign Budget](/content/images/blog/campaign-budget.png)
@@ -37,7 +37,7 @@ The next thing you need to do is set all of your campaigns to optimize the spend
 You can set each campaign to a limited budget of as low as $2/day (around $65/mo). That would total out to $8/day across all 4 of the campaigns (or $260/mo). 
 
 ## **3. Configure the Campaigns for Cold and Warm Audience Targeting**
-\
+
 Within each of the above campaigns, set up ad sets to distinguish between target groups. I normally have 3 ad sets per campaign:
 
 ![Audience Rollups](/content/images/blog/audience-rollups.png)
@@ -53,7 +53,7 @@ I also like to make the audiences mutually exclusive, so I’ll exclude my looka
 And now for the secret sauce.
 
 ## **4. Add New Content To Existing Campaigns**
- \
+ 
  Now, when you release new content, instead of boosting the post individually, simply add it to the existing campaign based on the type of content and who should see it.
 
 So if you release a new video intended for your followers, here’s what you do:

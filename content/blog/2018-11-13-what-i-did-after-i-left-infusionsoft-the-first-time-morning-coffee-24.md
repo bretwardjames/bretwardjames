@@ -5,7 +5,7 @@ draft: true
 title: 'What I Did After I Left Infusionsoft the FIRST Time: Morning Coffee #24'
 
 url: /blog/what-i-did-after-i-left-infusionsoft-the-first-time-morning-coffee-24
-categories:
+tags:
 - Morning Coffee
 ---
 

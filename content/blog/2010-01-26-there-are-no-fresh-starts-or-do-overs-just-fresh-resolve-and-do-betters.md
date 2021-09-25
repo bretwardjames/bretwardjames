@@ -5,7 +5,7 @@ draft: true
 title: There are no fresh starts or do-over’s, just fresh resolve and do-better’s
 
 url: /blog/there-are-no-fresh-starts-or-do-overs-just-fresh-resolve-and-do-betters
-categories:
+tags:
 - Jack Handy
 - Rants, etc-
 ---

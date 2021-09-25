@@ -5,7 +5,7 @@ draft: true
 title: Music and frustration and things (Think Like Me - 13)
 featured_image: 'tlm-logo.jpg'
 url: /blog/music-and-frustration-and-things
-categories:
+tags:
 - Podcast
 ---
 

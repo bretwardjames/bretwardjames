@@ -5,7 +5,7 @@ draft: true
 title: 'White Men: A Social Commentary'
 
 url: /blog/white-men-a-social-commentary
-categories:
+tags:
 - Rants, etc-
 ---
 

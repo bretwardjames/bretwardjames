@@ -5,7 +5,7 @@ draft: true
 title: Ethereal Extent (a name that only AI could choose)
 
 url: /blog/ethereal-extent-a-name-that-only-ai-could-choose
-categories:
+tags:
 - Rants, etc-
 ---
 

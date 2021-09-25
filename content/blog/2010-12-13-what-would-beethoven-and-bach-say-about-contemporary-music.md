@@ -5,7 +5,7 @@ draft: true
 title: What would Beethoven and Bach say about contemporary music?
 
 url: /blog/what-would-beethoven-and-bach-say-about-contemporary-music
-categories:
+tags:
 - Random
 ---
 

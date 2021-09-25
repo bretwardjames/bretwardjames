@@ -5,7 +5,7 @@ draft: true
 title: Technology, Fear, and Embracing Change
 
 url: /blog/technology-fear-and-embracing-change
-categories:
+tags:
 - Rants, etc-
 ---
 

@@ -5,11 +5,11 @@ draft: false
 title: 'Infusionsoft: The Early Days - Morning Coffee # 16'
 feature_image: "earlyears.png"
 url: /blog/infusionsoft-the-early-days-morning-coffee-16
-categories:
+tags:
 - Morning Coffee
 ---
 
-{{< youtube 6Jj_d6JDuo8 >}} \
+{{< youtube 6Jj_d6JDuo8 >}} 
 
 It's crazy to realize how much my early days at Infusionsoft have influenced the rest of my life.
 

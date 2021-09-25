@@ -5,7 +5,7 @@ draft: true
 title: Glory 31 Superfight Series Watching Party (Think Like Me - 2)
 featured_image: 'tlm-logo.jpg'
 url: /blog/glory-31-superfight-series-watching-party
-categories:
+tags:
 - Podcast
 ---
 

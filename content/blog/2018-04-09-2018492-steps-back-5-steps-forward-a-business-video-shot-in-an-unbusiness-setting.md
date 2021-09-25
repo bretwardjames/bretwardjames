@@ -5,7 +5,7 @@ draft: true
 title: 2 Steps Back, 5 Steps Forward - a business video shot in an unbusiness setting
 
 url: /blog/2018/4/9/2-steps-back-5-steps-forward-a-business-video-shot-in-an-unbusiness-setting
-categories:
+tags:
 - Business
 ---
 

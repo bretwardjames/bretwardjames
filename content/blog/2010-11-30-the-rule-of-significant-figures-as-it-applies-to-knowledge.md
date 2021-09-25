@@ -5,7 +5,7 @@ draft: true
 title: The Rule of Significant Figures as it Applies to Knowledge
 
 url: /blog/the-rule-of-significant-figures-as-it-applies-to-knowledge
-categories:
+tags:
 - Jack Handy
 ---
 

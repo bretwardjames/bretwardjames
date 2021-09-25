@@ -12,7 +12,7 @@ paginate = 5
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -37,6 +37,8 @@ paginate = 5
   # it's set to `true` by default
    oneHeadingSize = false
 
+disqusShortname = 'bretwardjames'
+
 
 
 [params.twitter]
@@ -52,8 +54,8 @@ paginate = 5
     title = "bretwardjames"
     subtitle = "yep. just the one t"
     owner = "bret martineau"
-    keywords = ""
-    copyright = ""
+    keywords = "some words"
+    copyright = "copyright 2021 bretwardjames"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"

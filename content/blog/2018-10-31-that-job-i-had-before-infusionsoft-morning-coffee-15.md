@@ -5,7 +5,7 @@ draft: true
 title: 'That job I had before Infusionsoft - Morning Coffee #15'
 
 url: /blog/that-job-i-had-before-infusionsoft-morning-coffee-15
-categories:
+tags:
 - Morning Coffee
 ---
 

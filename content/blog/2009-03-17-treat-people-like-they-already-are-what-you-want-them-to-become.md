@@ -5,7 +5,7 @@ draft: true
 title: Treat people like they already are what you want them to become
 
 url: /blog/treat-people-like-they-already-are-what-you-want-them-to-become
-categories:
+tags:
 - Jack Handy
 - Rants, etc-
 ---

@@ -5,7 +5,7 @@ draft: true
 title: Monday Evening Thoughts (written on Tuesday morning)
 
 url: /blog/monday-evening-thoughts-written-on-tuesday-morning
-categories:
+tags:
 - Jack Handy
 - Random
 ---

@@ -6,7 +6,7 @@ title: 'I knew I was going to leave the Mormon church when I was 12 - Morning Co
   #10'
 
 url: /blog/i-knew-i-was-going-to-leave-the-mormon-church-when-i-was-12-morning-coffee-10
-categories:
+tags:
 - Morning Coffee
 ---
 

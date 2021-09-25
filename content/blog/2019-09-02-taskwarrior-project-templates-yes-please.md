@@ -4,7 +4,7 @@ date: 2019-09-02T08:00:00
 draft: false
 featured_image: "templates.jpg"
 url: /blog/taskwarrior-project-templates-yes-please
-categories:
+tags:
 - Business
 - Mindset
 - Life
@@ -21,27 +21,25 @@ First, open a new file using nano:
 
 Next, add your tasks, separated by a new line:
 
-record video \
-edit video \
+record video 
+edit video 
 upload video 
 
 Then just add "task add" to the front of each line:
 
-_task add_ record video \
-_task add_ edit video \
+_task add_ record video 
+_task add_ edit video 
 _task add_ upload video 
 
 
 Now exit the file and save:
 
-```
-ctrl + x
-y
-```
+`ctrl + x`\
+`y`
 
 And now we can make the file executable:
 
-```sudo chmod +x videofile```
+sudo chmod +x videofile`
 
 Now we can create all those tasks simply by executing that file:
 
@@ -53,11 +51,11 @@ NOW, in order to bake in the dependencies, we need to add some stuff to the line
 
 And change the first line to
 
-```recordstring=`task add record video````
+```recordstring=`task add record video```
 
 Then enter a new line beneath that:
 
-```recordid=`echo $recordstring | grep -o -E '[0-9]+'````
+```recordid=`echo $recordstring | grep -o -E '[0-9]+'```
 
 Then just repeat that process for each task.
 

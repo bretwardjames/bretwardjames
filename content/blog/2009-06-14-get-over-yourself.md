@@ -5,7 +5,7 @@ draft: true
 title: Get Over Yourself
 
 url: /blog/get-over-yourself
-categories:
+tags:
 - Rants, etc-
 ---
 

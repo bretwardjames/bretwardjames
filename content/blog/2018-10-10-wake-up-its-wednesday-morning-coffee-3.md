@@ -5,7 +5,7 @@ draft: true
 title: 'Wake Up, It''s Wednesday - Morning Coffee #3'
 
 url: /blog/wake-up-its-wednesday-morning-coffee-3
-categories:
+tags:
 - Morning Coffee
 ---
 

@@ -5,7 +5,7 @@ draft: true
 title: Saying “No” to Business is More Valuable than Saying “Yes” - 4 Reasons Why
 
 url: /blog/saying-no-to-business-is-more-valuable-than-saying-yes-4-reasons-why
-categories:
+tags:
 - Business
 - Random
 ---

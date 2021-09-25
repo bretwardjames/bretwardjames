@@ -6,12 +6,12 @@ title: 'Isolation, Upwork and the future of freelancing, and how “CEO” has n
   - Morning Coffee #4'
 featured_image: "ceo.jpg"
 url: /blog/isolation-upwork-and-the-future-of-freelancing-and-how-ceo-has-no-meaning-morning-coffee-4
-categories:
+tags:
 - Morning Coffee
 - Business
 ---
 
-{{< youtube mlFywnEBqV8 >}} \
+{{< youtube mlFywnEBqV8 >}} 
 
 There's a lot to being self-employed or working remotely that goes unaddressed. Never fear, I shall address it!!
 

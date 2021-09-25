@@ -5,7 +5,7 @@ draft: true
 title: 'People follow good people - Morning Coffee #11'
 
 url: /blog/people-follow-good-people-morning-coffee-11
-categories:
+tags:
 - Morning Coffee
 ---
 

@@ -5,7 +5,7 @@ draft: true
 title: Be positive about everything and everyone
 
 url: /blog/be-positive-about-everything-and-everyone
-categories:
+tags:
 - Jack Handy
 ---
 

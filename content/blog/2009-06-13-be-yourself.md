@@ -5,7 +5,7 @@ draft: true
 title: Be Yourself
 
 url: /blog/be-yourself
-categories:
+tags:
 - Jack Handy
 ---
 

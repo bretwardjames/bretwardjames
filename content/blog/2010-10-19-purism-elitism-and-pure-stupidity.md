@@ -5,7 +5,7 @@ draft: true
 title: Purism, Elitism, and Pure Stupidity
 
 url: /blog/purism-elitism-and-pure-stupidity
-categories:
+tags:
 - Rants, etc-
 ---
 

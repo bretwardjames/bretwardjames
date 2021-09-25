@@ -5,7 +5,7 @@ draft: true
 title: Sunday Evening Thoughts
 
 url: /blog/sunday-evening-thoughts
-categories:
+tags:
 - Random
 ---
 

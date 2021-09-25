@@ -4,14 +4,14 @@ date: 2019-08-28T08:00:00
 draft: false
 featured_image: "timew.jpg"
 url: /blog/taskwarrior-timewarrior-freelancing-bliss
-categories:
+tags:
 - Business
 - Mindset
 - Life
 - Taskwarrior
 ---
 
-{{< youtube f_Be0CUVvA4 >}} \
+{{< youtube f_Be0CUVvA4 >}} 
 
 Copy this command right into your terminal after navigating to the `~/.task/hooks` directory:
 

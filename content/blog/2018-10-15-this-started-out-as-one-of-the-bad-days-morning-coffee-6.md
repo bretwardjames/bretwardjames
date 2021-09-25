@@ -5,7 +5,7 @@ draft: true
 title: 'This started out as one of the bad days - Morning Coffee #6'
 
 url: /blog/this-started-out-as-one-of-the-bad-days-morning-coffee-6
-categories:
+tags:
 - Morning Coffee
 ---
 

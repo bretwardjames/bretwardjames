@@ -5,7 +5,7 @@ draft: true
 title: 'Fear, comfort, and luck - Morning Coffee #5'
 
 url: /blog/fear-comfort-and-luck-morning-coffee-5
-categories:
+tags:
 - Morning Coffee
 ---
 

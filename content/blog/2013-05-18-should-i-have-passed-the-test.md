@@ -5,7 +5,7 @@ draft: true
 title: Should I have passed the test?
 
 url: /blog/should-i-have-passed-the-test
-categories:
+tags:
 - Jack Handy
 - Random
 ---

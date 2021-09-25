@@ -5,7 +5,7 @@ draft: false
 title: The Number One Killer of Long-Term Creativity
 featured_image: "fishing.jpg"
 url: /blog/the-number-one-killer-of-long-term-creativity
-categories:
+tags:
 - Business
 - Mindset
 ---
@@ -24,14 +24,14 @@ He said when you fish, you have to think about how much time your line is in the
 They spend time making sure all of their hooks are in perfect shape, baiting every line, preparing their lunch, _eating_ 
 their lunch, trolling for good spots, moving their boat to look for new spots, and on and on and on. And those people 
 tend to think that they're "optimizing" their fishing experience. After all, they're always trying to make sure that the
- experience is perfect in every way. \
+ experience is perfect in every way. 
 
 Other people (the ones who, unsurprisingly, have more success) focus on one thing and one thing only: maximizing the time
 their line is in the water. 
 
 So they don't worry as much about moving their boat to "find a better spot", or chatting 
 with other people, or fussing with their lines more than they have to. They understand that the _primary_ factor of 
-success while fishing is how much time your line is in the water. \
+success while fishing is how much time your line is in the water. 
 
 <center>
 {{< figure src="https://media.giphy.com/media/KpmfW5TPcYzba/giphy.gif" >}}
@@ -65,7 +65,7 @@ When did we all become so afraid of laying ourselves bare and just being who we 
 
 I have a personal example of this (it’s the video below)
 
-{{< youtube Sm65c4qjVQ0 >}} \
+{{< youtube Sm65c4qjVQ0 >}} 
 
 About 5 years ago, I decided to start writing some music. It had been about 10 years since I’d written anything, and it 
 felt long overdue.

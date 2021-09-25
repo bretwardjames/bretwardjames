@@ -5,7 +5,7 @@ draft: true
 title: 'The Dues of Entrepreneurship - Morning Coffee #9'
 
 url: /blog/the-dues-of-entrepreneurship-morning-coffee-9
-categories:
+tags:
 - Morning Coffee
 ---
 

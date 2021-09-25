@@ -5,7 +5,7 @@ draft: true
 title: 'Tuesday (Sue''s Day) Tools vs Raw Materials? - Morning Coffee #2'
 
 url: /blog/tuesday-sues-day-tools-vs-raw-materials-morning-coffee-2
-categories:
+tags:
 - Morning Coffee
 ---
 

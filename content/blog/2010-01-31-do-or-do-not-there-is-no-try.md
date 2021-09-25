@@ -5,7 +5,7 @@ draft: true
 title: Do, or do not; there is no try
 
 url: /blog/do-or-do-not-there-is-no-try
-categories:
+tags:
 - Jack Handy
 ---
 

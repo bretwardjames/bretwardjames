@@ -4,7 +4,7 @@ date: 2019-01-09 15:30:00+00:00
 draft: false
 title: 'Facebook AMA (Campaign Inception) - inFrequently Asked Questions #1'
 url: /blog/facebook-ama-campaign-inception-infrequently-asked-questions-1
-categories:
+tags:
 - iFAQ
 ---
 

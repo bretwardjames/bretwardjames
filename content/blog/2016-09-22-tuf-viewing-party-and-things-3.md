@@ -5,7 +5,7 @@ draft: true
 title: TUF Viewing Party and things (Think Like Me - 16)
 featured_image: 'tlm-logo.jpg'
 url: /blog/tuf-viewing-party-and-things-3
-categories:
+tags:
 - Podcast
 ---
 

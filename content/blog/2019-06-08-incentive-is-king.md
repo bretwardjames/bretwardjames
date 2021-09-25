@@ -4,7 +4,7 @@ date: 2019-06-07T08:00:00
 draft: false
 featured_image: "incentive.jpeg"
 url: /blog/incentive-is-king
-categories:
+tags:
 - Business
 - Mindset
 ---

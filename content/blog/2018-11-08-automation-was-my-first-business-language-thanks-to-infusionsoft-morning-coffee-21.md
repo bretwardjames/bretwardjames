@@ -6,7 +6,7 @@ title: 'Automation Was My FIRST Business Language (Thanks to Infusionsoft): Morn
   Coffee #21'
 
 url: /blog/automation-was-my-first-business-language-thanks-to-infusionsoft-morning-coffee-21
-categories:
+tags:
 - Morning Coffee
 ---
 

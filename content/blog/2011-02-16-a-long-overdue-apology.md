@@ -5,7 +5,7 @@ draft: true
 title: A long overdue apology
 
 url: /blog/a-long-overdue-apology
-categories:
+tags:
 - Random
 ---
 

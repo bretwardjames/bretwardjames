@@ -5,7 +5,7 @@ draft: true
 title: Shine (a grooveTASTIC cover version)
 
 url: /blog/shine-a-groovetastic-cover-version
-categories:
+tags:
 - Rants, etc-
 ---
 

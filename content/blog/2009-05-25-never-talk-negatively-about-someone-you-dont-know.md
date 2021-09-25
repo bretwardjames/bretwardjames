@@ -5,7 +5,7 @@ draft: true
 title: Never talk negatively about someone you don’t know
 
 url: /blog/never-talk-negatively-about-someone-you-dont-know
-categories:
+tags:
 - Rants, etc-
 ---
 

@@ -5,7 +5,7 @@ draft: true
 title: The “Fantasy World” of popular media
 
 url: /blog/the-fantasy-world-of-popular-media
-categories:
+tags:
 - Jack Handy
 ---
 

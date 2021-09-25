@@ -5,7 +5,7 @@ draft: true
 title: 'No, YOU do it - Morning Coffee #13'
 
 url: /blog/no-you-do-it-morning-coffee-13
-categories:
+tags:
 - Morning Coffee
 ---
 

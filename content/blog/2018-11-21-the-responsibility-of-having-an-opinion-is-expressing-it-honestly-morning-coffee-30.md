@@ -6,7 +6,7 @@ title: 'The Responsibility of Having an Opinion is Expressing it Honestly - Morn
   Coffee #30'
 
 url: /blog/the-responsibility-of-having-an-opinion-is-expressing-it-honestly-morning-coffee-30
-categories:
+tags:
 - Morning Coffee
 ---
 

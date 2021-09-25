@@ -5,7 +5,7 @@ draft: true
 title: Be You, 100% and Without Apology
 
 url: /blog/2018/6/20/be-you-100-and-without-apology
-categories:
+tags:
 - Business
 ---
 
