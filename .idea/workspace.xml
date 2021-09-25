@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f93a20ed-5ff1-44a1-9e6d-7388dc7fd7b0" name="Changes" comment="updating theme and formatting" />
+    <list default="true" id="f93a20ed-5ff1-44a1-9e6d-7388dc7fd7b0" name="Changes" comment="fixing single template">
+      <change beforePath="$PROJECT_DIR$/content/blog/2019-11-12-sleep.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/2019-11-12-sleep.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +61,7 @@
       <updated>1632444405512</updated>
       <workItem from="1632444406899" duration="2997000" />
       <workItem from="1632452143396" duration="4379000" />
-      <workItem from="1632533428171" duration="6011000" />
+      <workItem from="1632533428171" duration="6398000" />
     </task>
     <task id="LOCAL-00001" summary="updating homepage">
       <created>1632445882409</created>
@@ -117,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632539372065</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fixing single template">
+      <created>1632539702149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632539702149</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +153,8 @@
     <MESSAGE value="new theme" />
     <MESSAGE value="updating theme" />
     <MESSAGE value="updating theme and formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating theme and formatting" />
+    <MESSAGE value="fixing single template" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing single template" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
