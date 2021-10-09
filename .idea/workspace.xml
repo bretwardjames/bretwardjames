@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f93a20ed-5ff1-44a1-9e6d-7388dc7fd7b0" name="Changes" comment="fixing stuff">
-      <change afterPath="$PROJECT_DIR$/content/blog/2021-10-09-there-are-no-moral-obligations-probably.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/2021-10-2-youre-in-control-of-your-box.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/spotify.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f93a20ed-5ff1-44a1-9e6d-7388dc7fd7b0" name="Changes" comment="pushing s4e1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/2021-10-09-there-are-no-moral-obligations-probably.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/2021-10-09-there-are-no-moral-obligations-probably.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +35,7 @@
     <property name="com.google.cloudcode.ide_session_index" value="20211009_0000" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/content/blog" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -68,7 +65,7 @@
       <workItem from="1632452143396" duration="4379000" />
       <workItem from="1632533428171" duration="6716000" />
       <workItem from="1632674479213" duration="9000" />
-      <workItem from="1633782881690" duration="1981000" />
+      <workItem from="1633782881690" duration="2390000" />
     </task>
     <task id="LOCAL-00001" summary="updating homepage">
       <created>1632445882409</created>
@@ -140,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632539873560</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="pushing s4e1">
+      <created>1633784994341</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633784994342</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +173,8 @@
     <MESSAGE value="updating theme and formatting" />
     <MESSAGE value="fixing single template" />
     <MESSAGE value="fixing stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing stuff" />
+    <MESSAGE value="pushing s4e1" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing s4e1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
