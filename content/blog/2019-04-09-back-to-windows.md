@@ -3,7 +3,7 @@ date: 2019-04-09 5:50:31+00:00
 draft: false
 title: Back to Windows
 url: /blog/back-to-windows
-featured_image: "windows.jpg"
+cover: "/img/windows.jpg"
 tags:
 - Tech
 ---

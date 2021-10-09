@@ -2,7 +2,7 @@
 title: "To All The Haters Saying Don't Watch Game Of Thrones"
 date: 2019-04-15T08:00:00
 draft: false
-featured_image: "show.png"
+cover: "/img/show.png"
 url: /blog/to-all-the-haters-saying-dont-watch-game-of-thrones
 tags:
 - Live

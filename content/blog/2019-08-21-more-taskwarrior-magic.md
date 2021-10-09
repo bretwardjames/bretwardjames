@@ -2,7 +2,7 @@
 title: "More Taskwarrior Magic"
 date: 2019-08-21T08:00:00
 draft: false
-featured_image: "task3.jpg"
+cover: "/img/task3.jpg"
 url: /blog/more-taskwarrior-magic
 tags:
 - Business

@@ -2,7 +2,7 @@
 title: "Workstation Magic"
 date: 2019-04-25T15:00:00
 draft: false
-featured_image: "workstation.jpeg"
+cover: "/img/workstation.jpeg"
 url: /blog/workstation-magic
 tags:
 - Stuff

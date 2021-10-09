@@ -2,7 +2,7 @@
 title: "That Cisco Report"
 date: 2019-06-10T08:00:00
 draft: false
-featured_image: "cisco.jpg"
+cover: "/img/cisco.jpg"
 url: /blog/that-cisco-report
 tags:
 - Business

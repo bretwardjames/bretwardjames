@@ -2,7 +2,7 @@
 title: "Life Is An Equation, And The Variables Change Constantly"
 date: 2019-03-12T17:25:15
 draft: false
-featured_image: "equation.jpeg"
+cover: "/img/equation.jpeg"
 url: /blog/life-is-an-equation
 tags:
 - life

@@ -2,7 +2,7 @@
 title: "A Reaction to The Inventor: Out For Blood Documentary (and some other things)"
 date: 2019-04-16T08:00:00
 draft: false
-featured_image: "theranos.jpg"
+cover: "/img/theranos.jpg"
 url: /blog/a-review-of-the-inventor-out-for-blood-documentary-and-some-other-things
 tags:
 - Live

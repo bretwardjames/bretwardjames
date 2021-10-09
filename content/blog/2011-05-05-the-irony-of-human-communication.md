@@ -3,7 +3,7 @@
 date: 2011-05-05 18:17:37+00:00
 draft: false
 title: The Irony of Human Communication
-featured_image: "gibberish.gif"
+cover: "/img/gibberish.gif"
 url: /blog/the-irony-of-human-communication
 tags:
 - Mindset

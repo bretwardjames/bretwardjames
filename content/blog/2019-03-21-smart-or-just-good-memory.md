@@ -2,7 +2,7 @@
 title: "Smart, or just Good Memory?"
 date: 2019-03-21T22:15:42
 draft: false
-featured_image: "smart.jpg"
+cover: "/img/smart.jpg"
 url: /blog/smart-or-just-good-memory
 tags:
 - life

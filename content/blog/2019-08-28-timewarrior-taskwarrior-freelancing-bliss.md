@@ -2,7 +2,7 @@
 title: "Taskwarrior + Timewarrior = Freelancing Bliss!"
 date: 2019-08-28T08:00:00
 draft: false
-featured_image: "timew.jpg"
+cover: "/img/timew.jpg"
 url: /blog/taskwarrior-timewarrior-freelancing-bliss
 tags:
 - Business

@@ -2,7 +2,7 @@
 title: "Chris Grey and the Bluespand"
 date: 2019-03-07T12:34:34-08:00
 draft: false
-featured_image: "bluespand.jpg"
+cover: "/img/bluespand.jpg"
 url: /blog/chris-grey-and-the-bluespand
 tags:
 - music

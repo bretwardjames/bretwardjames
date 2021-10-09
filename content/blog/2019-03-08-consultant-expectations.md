@@ -2,7 +2,7 @@
 title: "Why You Shouldn't Expect Your Consultant To Know Everything"
 date: 2019-03-08T10:34:34-08:00
 draft: false
-featured_image: "answers.jpg"
+cover: "/img/answers.jpg"
 url: /blog/why-you-shouldnt-expect-your-consultant-to-know-everything
 tags:
 - business

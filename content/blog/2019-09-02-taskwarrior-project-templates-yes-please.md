@@ -2,7 +2,7 @@
 title: "Taskwarrior Project Templates? Yes Please!"
 date: 2019-09-02T08:00:00
 draft: false
-featured_image: "templates.jpg"
+cover: "/img/templates.jpg"
 url: /blog/taskwarrior-project-templates-yes-please
 tags:
 - Business

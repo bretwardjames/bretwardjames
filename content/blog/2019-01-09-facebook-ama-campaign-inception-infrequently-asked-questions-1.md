@@ -1,5 +1,5 @@
 ---
-featured_image: "campaign-inception_fb-ama-1.png"
+cover: "/img/campaign-inception_fb-ama-1.png"
 date: 2019-01-09 15:30:00+00:00
 draft: false
 title: 'Facebook AMA (Campaign Inception) - inFrequently Asked Questions #1'

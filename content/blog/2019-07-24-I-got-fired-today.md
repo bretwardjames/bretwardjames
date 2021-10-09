@@ -2,7 +2,7 @@
 title: "I got fired today"
 date: 2019-07-23T08:00:00
 draft: false
-featured_image: "fired2.png"
+cover: "/img/fired2.png"
 url: /blog/i-got-fired-today
 tags:
 - Business

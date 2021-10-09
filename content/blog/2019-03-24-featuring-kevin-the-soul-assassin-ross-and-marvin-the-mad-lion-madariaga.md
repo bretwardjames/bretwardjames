@@ -2,7 +2,7 @@
 title: "Featuring Kevin 'The Soul Assassin' Ross and Marvin 'The Mad Lion' Madariaga"
 date: 2019-03-24T17:17:33
 draft: false
-featured_image: "kevmarv.png"
+cover: "/img/kevmarv.png"
 url: /blog/featuring-kevin-the-soul-assassin-ross-and-marvin-the-mad-lion-madariaga
 tags:
 - Muay Thai

@@ -4,7 +4,7 @@ date: 2006-12-20 17:50:31+00:00
 draft: true
 title: To the wandering child
 url: /blog/to-the-wandering-child
-featured_image: "http://static1.squarespace.com/static/5b29b282b27e39d3891a137e/5b29d50ac07b083624e43ad2/5b29d50bc07b083624e43afb/1529468468685/pexels-photo-230233-1-e1498095711506.jpeg"
+cover: "/img/http://static1.squarespace.com/static/5b29b282b27e39d3891a137e/5b29d50ac07b083624e43ad2/5b29d50bc07b083624e43afb/1529468468685/pexels-photo-230233-1-e1498095711506.jpeg"
 tags:
 - Pretty Things
 ---

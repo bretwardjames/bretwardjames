@@ -3,7 +3,7 @@ date: 2019-04-11 5:50:31+00:00
 draft: false
 title: The Return of the Beard
 url: /blog/the-return-of-the-beard
-featured_image: "beard.png"
+cover: "/img/beard.png"
 tags:
 - Personal
 ---

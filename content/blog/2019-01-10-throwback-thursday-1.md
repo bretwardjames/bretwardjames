@@ -5,7 +5,7 @@ title: 'The Beginnings of SixthDivision - Throwback Thursday #1'
 url: /blog/throwback-thursday-1
 tags:
 - Throwback Thursday
-featured_image: "throwback-1.png"
+cover: "/img/throwback-1.png"
 ---
 
 

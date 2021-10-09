@@ -2,7 +2,7 @@
 title: "Facebook Ads On A Fixed Budget - Tech Tips #1"
 date: 2019-01-08T22:34:34-08:00
 draft: false
-featured_image: "fb-budget.jpeg"
+cover: "/img/fb-budget.jpeg"
 url: /blog/facebook-ads-on-a-fixed-budget-tech-tips-1
 ---
 

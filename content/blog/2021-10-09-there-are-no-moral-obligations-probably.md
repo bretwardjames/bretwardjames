@@ -2,7 +2,7 @@
 title: "TLMODS4E2 There are no moral obligations....probably"
 date: 2021-10-09T08:00:00
 draft: false
-featured_image: ""
+
 url: /blog/no-moral-obligations-probably
 tags:
 - Life

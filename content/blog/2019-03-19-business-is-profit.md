@@ -2,7 +2,7 @@
 title: "Business Is Profit"
 date: 2019-03-19T08:25:54
 draft: false
-featured_image: "profit.jpg"
+cover: "/img/profit.jpg"
 url: /blog/business-is-profit
 tags:
 - business

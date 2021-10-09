@@ -3,7 +3,7 @@
 date: 2018-11-13 23:03:08+00:00
 draft: false
 title: The Number One Killer of Long-Term Creativity
-featured_image: "fishing.jpg"
+cover: "/img/fishing.jpg"
 url: /blog/the-number-one-killer-of-long-term-creativity
 tags:
 - Business

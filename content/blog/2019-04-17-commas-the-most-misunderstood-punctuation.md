@@ -2,7 +2,7 @@
 title: "Commas: The MOST Misunderstood Punctuation?"
 date: 2019-04-17T08:00:00
 draft: false
-featured_image: "comma.png"
+cover: "/img/comma.png"
 url: /blog/commas-the-most-misunderstood-punctuation
 tags:
 - Live
