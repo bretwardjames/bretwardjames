@@ -73,6 +73,6 @@ HUGO_ENV = "production"
 
 [[redirects]]
   from = "/nuptials"
-  to =  "https://www.youtube.com/@saintjohnthebaptistcatholi8898/streams"
+  to =  "https://www.youtube.com/live/F4HodYSi9XA?feature=share"
   force = true
   status = 301
