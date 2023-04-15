@@ -70,3 +70,9 @@ HUGO_ENV = "production"
   to ="http://www.wickedreports.com?afmc=ca"
   force = true
   status = 301
+
+[[redirects]]
+  from = "/nuptials"
+  to =  "https://www.youtube.com/@saintjohnthebaptistcatholi8898/streams"
+  force = true
+  status  301
