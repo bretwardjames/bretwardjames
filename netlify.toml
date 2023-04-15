@@ -73,6 +73,6 @@ HUGO_ENV = "production"
 
 [[redirects]]
   from = "/nuptials"
-  to =  "https://www.youtube.com/live/F4HodYSi9XA?feature=share"
+  to =  "https://www.youtube.com/live/AdU9BHrRkRM?feature=share"
   force = true
   status = 301
