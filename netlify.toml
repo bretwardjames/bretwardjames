@@ -75,4 +75,4 @@ HUGO_ENV = "production"
   from = "/nuptials"
   to =  "https://www.youtube.com/@saintjohnthebaptistcatholi8898/streams"
   force = true
-  status  301
+  status = 301
